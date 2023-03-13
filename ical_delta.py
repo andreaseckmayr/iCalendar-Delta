@@ -14,10 +14,10 @@ import urllib3
 
 # %%
 class Cal:
-    def __init__ (self, url: str, name: str, hash: str):
+    def __init__ (self, url: str, name: str, uid: str):
         self.url = url
         self.name = name
-        self.hash = hash
+        self.uid = uid
     
     def __str__(self):
         return f'{self.url}'
@@ -55,7 +55,7 @@ def compare(a: Cal, b: Cal) -> Calendar:
 
 # %%  set static urls
 calendars = dict()
-with open('/config/calendars.csv', 'r') as file:
+with open('/config/calendars.csv', 'r', encoding='UTF-8') as file:
     csv_reader = csv.reader(file, delimiter=';')
     for row in csv_reader:
         calendars[row[0]] = Cal(row[1], row[2], row[3])
