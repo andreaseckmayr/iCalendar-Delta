@@ -1,8 +1,20 @@
 version: '3'
 
 services:
-  ical-delta:
-    container_name: 'ical-delta'
+  app:
+    container_name: 'ical-delta-app'
     build: .
-    ports: 
-      - 5000:5000
+    volumes:
+      - calendars:/calendars
+  web:
+    container_name: 'ical-delta-web'
+    build:
+      dockerfile: Dockerfile-web
+    restart: always
+    volumes:
+      - calendars:/app/static
+    ports:
+      - "8080:8080"
+
+volumes:
+  calendars:
