@@ -6,13 +6,11 @@ A. Eckmayr
 
 # %%  load dependencies
 from typing import Set
-from icalendar import Calendar, Event
+from icalendar import Calendar
 from datetime import datetime
-from pytz import UTC
+import csv
 import urllib3
 import os
-import datetime
-import csv
 
 # %%
 class Cal:
@@ -73,11 +71,11 @@ cal_a_delta = compare(calendars['1'], calendars['2'])
 cal_b_delta = compare(calendars['2'], calendars['1'])
 
 # %%  write calendars to file
-f = open(os.path.join('/calendars', f'{calendars["1"].hash}.ics'), 'wb')  # $ echo -n andreas | md5sum -> andreas
+f = open(os.path.join('/calendars', f'{calendars["1"].hash}.ics'), 'wb')  # $ echo -n andreas | md5sum
 f.write(cal_a_delta.to_ical())
 f.close()
 
-f = open(os.path.join('/calendars', f'{calendars["2"].hash}.ics'), 'wb')  # magdalena
+f = open(os.path.join('/calendars', f'{calendars["2"].hash}.ics'), 'wb')
 f.write(cal_b_delta.to_ical())
 f.close()
 
