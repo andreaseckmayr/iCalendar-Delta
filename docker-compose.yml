@@ -3,11 +3,16 @@ version: '3'
 services:
   app:
     container_name: 'ical-delta-app'
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
     build: .
     volumes:
       - calendars:/calendars
+      - ./config:/config
   web:
     container_name: 'ical-delta-web'
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
     build:
       dockerfile: Dockerfile-web
     restart: always
