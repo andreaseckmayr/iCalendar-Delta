@@ -1,0 +1,2615 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:fhooe-dse-magdalena//ndrs.dev
+BEGIN:VEVENT
+SUMMARY:Kommissionelle Prüfung 17_BAC5SE (Eckmayr Andreas Christian)
+DTSTART;TZID=Europe/Berlin:20220907T103000
+DTEND;TZID=Europe/Berlin:20220907T110000
+DTSTAMP:20230312T212743Z
+UID:7266ee0c-db75-450a-aed0-26a923e2defa
+SEQUENCE:0
+CATEGORIES:Sonstiger Termin
+DESCRIPTION;LANGUAGE=de:Kommissionelle Prüfung 17_BAC5SE (Eckmayr Andreas
+  Christian)\n\nTermintyp: Sonstiger Termin\nUhrzeit: 10:30 - 11:00\nRaum: 
+ SRB1 (FH2.321) \nOrt: Hagenberg\nLektor: Lirk Gerald\, Schuler Andreas Han
+ nes\, Winkler Stephan \nStudiengang: MBI.ba (0458)\n\n\n--\nStand: 12.03.2
+ 023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221003T121000
+DTEND;TZID=Europe/Berlin:20221003T134500
+DTSTAMP:20230312T212743Z
+UID:9dccab4e-e52e-4f98-9e09-c33291aa3a4f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: SRB1 (FH2.321) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \nStud
+ iengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221003T135000
+DTEND;TZID=Europe/Berlin:20221003T143500
+DTSTAMP:20230312T212743Z
+UID:79a64906-b719-43e3-9b1e-d884b09acb34
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: SRB1 (FH2.321) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \nStud
+ iengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T3
+DTSTART;TZID=Europe/Berlin:20221003T153000
+DTEND;TZID=Europe/Berlin:20221003T175500
+DTSTAMP:20230312T212743Z
+UID:d9532259-a306-42fa-935f-41698f3aed65
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T3\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB1 (FH2.322) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Anlauf Stefan \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221004T080000
+DTEND;TZID=Europe/Berlin:20221004T093500
+DTSTAMP:20230312T212743Z
+UID:5e450cd7-14d9-4786-8a94-f749b9358b75
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221004T094000
+DTEND;TZID=Europe/Berlin:20221004T102500
+DTSTAMP:20230312T212743Z
+UID:bd2fcc68-4240-414b-bdfb-a7a2980a5c46
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221004T121000
+DTEND;TZID=Europe/Berlin:20221004T125500
+DTSTAMP:20230312T212743Z
+UID:53b8d2fa-a0cd-4778-a000-d51643e5925b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221004T130000
+DTEND;TZID=Europe/Berlin:20221004T143500
+DTSTAMP:20230312T212743Z
+UID:e0e68f5d-8a5b-4926-86b3-56180f88f8b0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221004T153000
+DTEND;TZID=Europe/Berlin:20221004T170500
+DTSTAMP:20230312T212743Z
+UID:8f5382cd-d296-41b4-88f2-b84e00211582
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 15:30 - 17:05\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T3
+DTSTART;TZID=Europe/Berlin:20221010T085000
+DTEND;TZID=Europe/Berlin:20221010T111500
+DTSTAMP:20230312T212743Z
+UID:a4dfaf9e-a658-47de-b6b8-94a6a8a27ef8
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T3\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: LBB1 (FH2.322) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Anlauf Stefan \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221010T121000
+DTEND;TZID=Europe/Berlin:20221010T134500
+DTSTAMP:20230312T212743Z
+UID:53fdc590-6e38-4113-bbcf-dc3214cff5df
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221010T135000
+DTEND;TZID=Europe/Berlin:20221010T143500
+DTSTAMP:20230312T212743Z
+UID:2e4c02be-2193-44c0-907c-97941b6cfbbe
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221010T153000
+DTEND;TZID=Europe/Berlin:20221010T170500
+DTSTAMP:20230312T212743Z
+UID:dd7408c8-5c06-4287-8d01-01b7715467be
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 15:30 - 17:05\nRaum: SPAR ICS LBS2 (FH3.009) \nOrt: Hagenberg
+ \nUnterrichtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudienga
+ ng: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221010T171000
+DTEND;TZID=Europe/Berlin:20221010T175500
+DTSTAMP:20230312T212743Z
+UID:466545e7-7cf2-4f78-82f7-88196710fd98
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 17:10 - 17:55\nRaum: SPAR ICS LBS2 (FH3.009) \nOrt: Hagenberg
+ \nUnterrichtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudienga
+ ng: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221011T080000
+DTEND;TZID=Europe/Berlin:20221011T093500
+DTSTAMP:20230312T212743Z
+UID:c1c317e9-40d3-4518-965a-916437d25d16
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221011T094000
+DTEND;TZID=Europe/Berlin:20221011T102500
+DTSTAMP:20230312T212743Z
+UID:69c38ee9-f676-4424-99ae-1433538b9b67
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221011T121000
+DTEND;TZID=Europe/Berlin:20221011T125500
+DTSTAMP:20230312T212743Z
+UID:d9bad3c7-5c24-4196-99ea-03cc3931f5dd
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221011T130000
+DTEND;TZID=Europe/Berlin:20221011T143500
+DTSTAMP:20230312T212743Z
+UID:ba578e0b-2065-46b0-9d38-8aa4c5cdbe05
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221011T153000
+DTEND;TZID=Europe/Berlin:20221011T170500
+DTSTAMP:20230312T212743Z
+UID:5d0ccc45-3d7f-45f1-92c3-4b5b0de13a81
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 15:30 - 17:05\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T3
+DTSTART;TZID=Europe/Berlin:20221017T085000
+DTEND;TZID=Europe/Berlin:20221017T111500
+DTSTAMP:20230312T212743Z
+UID:7be1bb08-79b7-43a6-9670-3b49a4ca90f2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T3\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: LBB1 (FH2.322) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Anlauf Stefan \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221017T121000
+DTEND;TZID=Europe/Berlin:20221017T134500
+DTSTAMP:20230312T212743Z
+UID:b0d2a4c7-fd47-4295-ae50-431e2360ec91
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hagenber
+ g\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595
+ )\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221018T080000
+DTEND;TZID=Europe/Berlin:20221018T093500
+DTSTAMP:20230312T212743Z
+UID:62eb9501-ac7f-4299-bcd2-9ade9795e917
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221018T094000
+DTEND;TZID=Europe/Berlin:20221018T102500
+DTSTAMP:20230312T212743Z
+UID:f3b72c2c-fa47-4e3e-a717-7d92253b2403
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221018T121000
+DTEND;TZID=Europe/Berlin:20221018T125500
+DTSTAMP:20230312T212743Z
+UID:b4afda52-9eee-4fb8-bd33-9ac974031b2e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221018T130000
+DTEND;TZID=Europe/Berlin:20221018T143500
+DTSTAMP:20230312T212743Z
+UID:a9b534b3-15d5-4e27-9c27-c423a1bdb896
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221018T153000
+DTEND;TZID=Europe/Berlin:20221018T170500
+DTSTAMP:20230312T212743Z
+UID:4bebac90-0987-431d-a5d9-d2cceba2a4d1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 15:30 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221018T171000
+DTEND;TZID=Europe/Berlin:20221018T175500
+DTSTAMP:20230312T212743Z
+UID:f566a9c1-cf25-4a30-9022-19176b67ea32
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 17:10 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221024T080000
+DTEND;TZID=Europe/Berlin:20221024T093500
+DTSTAMP:20230312T212743Z
+UID:754661a7-3cb5-48dc-85ff-b737693764b6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: SRB1 (FH2.321) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \nStud
+ iengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221024T094000
+DTEND;TZID=Europe/Berlin:20221024T102500
+DTSTAMP:20230312T212743Z
+UID:fcc0eb3f-d892-4523-8ccf-1bfc2f4a378e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: SRB1 (FH2.321) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \nStud
+ iengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221024T121000
+DTEND;TZID=Europe/Berlin:20221024T134500
+DTSTAMP:20230312T212743Z
+UID:a6c5bed8-5a07-4093-a33b-a37d803dd1db
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221024T135000
+DTEND;TZID=Europe/Berlin:20221024T143500
+DTSTAMP:20230312T212743Z
+UID:715895c2-f323-45fe-912f-103bb8dff68f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221025T080000
+DTEND;TZID=Europe/Berlin:20221025T093500
+DTSTAMP:20230312T212743Z
+UID:58fe9b9a-a236-45fb-890b-03c99f145526
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221025T094000
+DTEND;TZID=Europe/Berlin:20221025T102500
+DTSTAMP:20230312T212743Z
+UID:0b77b698-e9a8-4290-8630-638027637577
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221025T121000
+DTEND;TZID=Europe/Berlin:20221025T125500
+DTSTAMP:20230312T212743Z
+UID:fb283e9d-fbd1-4254-ad09-ed1d039cb447
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221025T130000
+DTEND;TZID=Europe/Berlin:20221025T143500
+DTSTAMP:20230312T212743Z
+UID:7045a848-d89b-40f6-a8db-69119b7eec46
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221025T153000
+DTEND;TZID=Europe/Berlin:20221025T170500
+DTSTAMP:20230312T212743Z
+UID:8aa1bff3-a68f-40df-addb-30943a46beb4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 15:30 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221025T171000
+DTEND;TZID=Europe/Berlin:20221025T175500
+DTSTAMP:20230312T212743Z
+UID:d3216230-5d4d-486a-95a0-7857e4b25e1b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 17:10 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221031T080000
+DTEND;TZID=Europe/Berlin:20221031T093500
+DTSTAMP:20230312T212743Z
+UID:9b3fcacf-8409-46d6-b833-a72b0dbd1891
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: CELUM HS2 (FH1.004) 
+ \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, CELUM HS2 (FH1.004) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221031T094000
+DTEND;TZID=Europe/Berlin:20221031T102500
+DTSTAMP:20230312T212743Z
+UID:556fb406-095b-4579-96d3-927aef948775
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: CELUM HS2 (FH1.004) 
+ \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, CELUM HS2 (FH1.004) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221031T121000
+DTEND;TZID=Europe/Berlin:20221031T134500
+DTSTAMP:20230312T212743Z
+UID:b38253cd-f2d1-4bc5-9e5c-5206b37c07cd
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221031T135000
+DTEND;TZID=Europe/Berlin:20221031T143500
+DTSTAMP:20230312T212743Z
+UID:911efc48-ac96-415b-bb38-78c5476fd056
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221102T121000
+DTEND;TZID=Europe/Berlin:20221102T134500
+DTSTAMP:20230312T212743Z
+UID:c2eb7fae-fe66-4f84-a44b-972175e45e46
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221102T144000
+DTEND;TZID=Europe/Berlin:20221102T170500
+DTSTAMP:20230312T212743Z
+UID:be9ff17b-3ecf-4055-bd5d-8bd49c094d15
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: OÖN HS1 (FH1.005) \nOrt: Hag
+ enberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma 
+ (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221108T080000
+DTEND;TZID=Europe/Berlin:20221108T093500
+DTSTAMP:20230312T212743Z
+UID:c49a0fd5-4f89-4780-8220-c7b90741f000
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221108T094000
+DTEND;TZID=Europe/Berlin:20221108T102500
+DTSTAMP:20230312T212743Z
+UID:1e735f66-aa6c-4ec3-8fe4-aa389ac2fa19
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221108T121000
+DTEND;TZID=Europe/Berlin:20221108T125500
+DTSTAMP:20230312T212743Z
+UID:e170e2ce-3f0d-48b5-a46c-6114006c4cd4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221108T130000
+DTEND;TZID=Europe/Berlin:20221108T143500
+DTSTAMP:20230312T212743Z
+UID:78d58e3b-7db7-4422-9b4f-bbb68cb4ddf7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221108T153000
+DTEND;TZID=Europe/Berlin:20221108T170500
+DTSTAMP:20230312T212743Z
+UID:4212473e-c069-441e-a34b-b11140a75e85
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 15:30 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221108T171000
+DTEND;TZID=Europe/Berlin:20221108T175500
+DTSTAMP:20230312T212743Z
+UID:33f652ae-41d3-41ce-9a22-8e862a509886
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 17:10 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T3 mündl. Prüfung
+DTSTART;TZID=Europe/Berlin:20221109T080000
+DTEND;TZID=Europe/Berlin:20221109T121000
+DTSTAMP:20230312T212743Z
+UID:9057afce-4055-473b-9fa4-ad0a747cc029
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T3 mündl. Prüfung\nAdvanced Scripting\n
+ \nTermintyp: Prüfungstermin\nUhrzeit: 08:00 - 12:10\nOrt: Hagenberg\nUnte
+ rrichtssprache: de\nLektor: Anlauf Stefan \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221109T121000
+DTEND;TZID=Europe/Berlin:20221109T134500
+DTSTAMP:20230312T212743Z
+UID:ee0a3a95-8204-4009-b860-c4d63350eb00
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221109T144000
+DTEND;TZID=Europe/Berlin:20221109T170500
+DTSTAMP:20230312T212743Z
+UID:27b4e8db-bbe5-49c1-9cf4-07d4e3f68590
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221115T080000
+DTEND;TZID=Europe/Berlin:20221115T093500
+DTSTAMP:20230312T212743Z
+UID:579a7007-982c-4d91-994a-7546993640f5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221115T094000
+DTEND;TZID=Europe/Berlin:20221115T102500
+DTSTAMP:20230312T212743Z
+UID:de02b207-2d65-4c3e-a785-0fc84e7080c5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221115T121000
+DTEND;TZID=Europe/Berlin:20221115T125500
+DTSTAMP:20230312T212743Z
+UID:b24cebb3-57f2-4f80-9c36-34aa4897f5a3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221115T130000
+DTEND;TZID=Europe/Berlin:20221115T143500
+DTSTAMP:20230312T212743Z
+UID:9b5f916b-335b-433d-9ffc-4010199c2f49
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221115T153000
+DTEND;TZID=Europe/Berlin:20221115T170500
+DTSTAMP:20230312T212743Z
+UID:7a81e368-706a-4307-ab7c-4484fc972352
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 15:30 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221115T171000
+DTEND;TZID=Europe/Berlin:20221115T175500
+DTSTAMP:20230312T212743Z
+UID:2d1dc566-3ff7-4067-9a67-f01099157122
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 17:10 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T2_T1
+DTSTART;TZID=Europe/Berlin:20221116T080000
+DTEND;TZID=Europe/Berlin:20221116T111500
+DTSTAMP:20230312T212743Z
+UID:631d6868-8734-4bd7-b7ae-a90af35b29d7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T2_T1\nText Mining\n\nTermintyp: Lehrvera
+ nstaltung\nUhrzeit: 08:00 - 11:15\nRaum: SPAR ICS LBS2 (FH3.009) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Birklbauer Micha Johannes \nStudi
+ engang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221116T121000
+DTEND;TZID=Europe/Berlin:20221116T134500
+DTSTAMP:20230312T212743Z
+UID:dde35346-338d-4315-a49d-ffbdc039a8b9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221116T144000
+DTEND;TZID=Europe/Berlin:20221116T170500
+DTSTAMP:20230312T212743Z
+UID:12dbed01-8a86-460c-91b7-46aa188a4216
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2
+DTSTART;TZID=Europe/Berlin:20221121T144000
+DTEND;TZID=Europe/Berlin:20221121T161500
+DTSTAMP:20230312T212743Z
+UID:1e507a6a-b090-4cf8-9901-0c10b9dc5968
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 14:40 - 16:15\nRaum: LBB1 (FH2.322) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T2
+DTSTART;TZID=Europe/Berlin:20221121T162000
+DTEND;TZID=Europe/Berlin:20221121T170500
+DTSTAMP:20230312T212743Z
+UID:24b10b54-c0be-4d2c-b80e-0085202118c9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T2\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 16:20 - 17:05\nRaum: LBB1 (FH2.322) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221122T080000
+DTEND;TZID=Europe/Berlin:20221122T093500
+DTSTAMP:20230312T212743Z
+UID:0251a86d-de86-442e-a933-3c083a14dd39
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221122T094000
+DTEND;TZID=Europe/Berlin:20221122T102500
+DTSTAMP:20230312T212743Z
+UID:302f8894-b9b5-40de-9096-f1e8d4f7fd57
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221122T121000
+DTEND;TZID=Europe/Berlin:20221122T125500
+DTSTAMP:20230312T212743Z
+UID:cd16adfd-9b1a-4a3f-b09b-71fd8431428d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221122T130000
+DTEND;TZID=Europe/Berlin:20221122T143500
+DTSTAMP:20230312T212743Z
+UID:e2f742a8-9a25-4f7d-a124-7a3008f07fbc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221123T121000
+DTEND;TZID=Europe/Berlin:20221123T134500
+DTSTAMP:20230312T212743Z
+UID:182c3d61-a0fb-4e96-9117-d0adc1aee27c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221123T144000
+DTEND;TZID=Europe/Berlin:20221123T170500
+DTSTAMP:20230312T212743Z
+UID:3bf1b123-6936-4de2-b3e9-3511dba910f1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20221128T080000
+DTEND;TZID=Europe/Berlin:20221128T093500
+DTSTAMP:20230312T212743Z
+UID:7779372c-a713-4f60-8f53-cbeb18eabc0b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 08:00 - 09:35\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20221128T103000
+DTEND;TZID=Europe/Berlin:20221128T111500
+DTSTAMP:20230312T212743Z
+UID:1e124cb4-c432-42e0-80dd-0e34ce0d56aa
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 10:30 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T1
+DTSTART;TZID=Europe/Berlin:20221128T112000
+DTEND;TZID=Europe/Berlin:20221128T125500
+DTSTAMP:20230312T212743Z
+UID:4cff439c-59a9-4961-809c-1cb5374ee53c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 11:20 - 12:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20221128T135000
+DTEND;TZID=Europe/Berlin:20221128T152500
+DTSTAMP:20230312T212743Z
+UID:c6952b97-de0b-4a56-be90-aed14536fb78
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 15:25\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20221128T153000
+DTEND;TZID=Europe/Berlin:20221128T161500
+DTSTAMP:20230312T212743Z
+UID:fbfda94a-971c-45a7-9609-5cbb8f39d4ab
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 15:30 - 16:15\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221129T080000
+DTEND;TZID=Europe/Berlin:20221129T093500
+DTSTAMP:20230312T212743Z
+UID:2a50b4ba-5d37-4ba3-a01e-5a36945493ce
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221129T094000
+DTEND;TZID=Europe/Berlin:20221129T102500
+DTSTAMP:20230312T212743Z
+UID:1c2ec458-7f19-49a8-8619-84986ef54dc0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T1
+DTSTART;TZID=Europe/Berlin:20221130T112000
+DTEND;TZID=Europe/Berlin:20221130T125500
+DTSTAMP:20230312T212743Z
+UID:5a938644-0dba-455f-94e0-e4a6de47d541
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 11:20 - 12:55\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T1
+DTSTART;TZID=Europe/Berlin:20221130T130000
+DTEND;TZID=Europe/Berlin:20221130T134500
+DTSTAMP:20230312T212743Z
+UID:b3645f7b-ff2f-4a2d-b1f6-ebf2129ee22d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T1\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:00 - 13:45\nRaum: OÖN HS1 (FH1.005) \
+ nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Affenzeller Michael \n
+ Studiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221130T151000
+DTEND;TZID=Europe/Berlin:20221130T173500
+DTSTAMP:20230312T212743Z
+UID:578aea17-f143-4bc0-9588-d246aa4f9d9f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 15:10 - 17:35\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T1
+DTSTART;TZID=Europe/Berlin:20221205T085000
+DTEND;TZID=Europe/Berlin:20221205T102500
+DTSTAMP:20230312T212743Z
+UID:7804aa66-af1a-4bbc-86ef-31edfb728655
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 08:50 - 10:25\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20221205T103000
+DTEND;TZID=Europe/Berlin:20221205T120500
+DTSTAMP:20230312T212743Z
+UID:c02dfeaf-e4d6-475c-b6a7-30544c6e0d4d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 10:30 - 12:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20221205T130000
+DTEND;TZID=Europe/Berlin:20221205T143500
+DTSTAMP:20230312T212743Z
+UID:1bc2454c-07f1-42f1-b0b8-1b9422c981df
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: LBB2 (FH2.309) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20221205T144000
+DTEND;TZID=Europe/Berlin:20221205T152500
+DTSTAMP:20230312T212743Z
+UID:0ea4283e-c31b-4827-9aaf-33d67af740af
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: LBB2 (FH2.309) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221206T080000
+DTEND;TZID=Europe/Berlin:20221206T093500
+DTSTAMP:20230312T212743Z
+UID:e582982e-012a-4ecf-9200-8ed051894f48
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221206T094000
+DTEND;TZID=Europe/Berlin:20221206T102500
+DTSTAMP:20230312T212743Z
+UID:08ce3fb9-09a0-4bf7-9ff6-ecef9ec37a86
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221206T121000
+DTEND;TZID=Europe/Berlin:20221206T125500
+DTSTAMP:20230312T212743Z
+UID:b037b226-449b-46e5-b67d-76681bb3dff1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: WackerNeusonSRA1 (FH3.310) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudie
+ ngang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, WackerNeusonSRA1 (FH3.310) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221206T130000
+DTEND;TZID=Europe/Berlin:20221206T143500
+DTSTAMP:20230312T212743Z
+UID:7439bea9-387e-4d4c-8419-786d91c9a61b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: WackerNeusonSRA1 (FH3.310) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudie
+ ngang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, WackerNeusonSRA1 (FH3.310) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T2_T1
+DTSTART;TZID=Europe/Berlin:20221207T080000
+DTEND;TZID=Europe/Berlin:20221207T111500
+DTSTAMP:20230312T212743Z
+UID:1d5a3c52-5a05-4d1a-8259-053d15dfe9cc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T2_T1\nText Mining\n\nTermintyp: Lehrvera
+ nstaltung\nUhrzeit: 08:00 - 11:15\nRaum: Online SPAR ICS LBS2 (FH3.009) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Birklbauer Micha Johannes 
+ \nStudiengang: DSE.ma (0595)\n\nZusätzliche Anmerkungen:\nkrankheitsbedin
+ gt auf online umgestellt\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221207T121000
+DTEND;TZID=Europe/Berlin:20221207T134500
+DTSTAMP:20230312T212743Z
+UID:66aac784-576d-4732-8b8e-a6c5aca7ec74
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221207T144000
+DTEND;TZID=Europe/Berlin:20221207T170500
+DTSTAMP:20230312T212743Z
+UID:7c87c33c-3242-4c48-b03e-1cd310f03749
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: SRB1 (FH2.321) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (059
+ 5)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20221212T121000
+DTEND;TZID=Europe/Berlin:20221212T134500
+DTSTAMP:20230312T212743Z
+UID:ab36ea0c-cde9-4eaa-836f-3f51c72f5bf7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20221212T135000
+DTEND;TZID=Europe/Berlin:20221212T143500
+DTSTAMP:20230312T212743Z
+UID:30b42c28-81a6-4d8d-a90c-1ba17c0f7e65
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221213T080000
+DTEND;TZID=Europe/Berlin:20221213T093500
+DTSTAMP:20230312T212743Z
+UID:b75a9e83-a83d-470a-a00a-df66d1c6fecb
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221213T094000
+DTEND;TZID=Europe/Berlin:20221213T102500
+DTSTAMP:20230312T212743Z
+UID:2caa6ed7-2352-41d1-8a6c-5eb27ac0c8e7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221213T121000
+DTEND;TZID=Europe/Berlin:20221213T125500
+DTSTAMP:20230312T212743Z
+UID:5e476a7c-794e-4dd6-9a22-1a5f403e3646
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hage
+ nberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang:
+  DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221213T130000
+DTEND;TZID=Europe/Berlin:20221213T143500
+DTSTAMP:20230312T212743Z
+UID:c1de72b0-099f-45fb-9bb9-7b19122673fa
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hage
+ nberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang:
+  DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T2 Prüfung
+DTSTART;TZID=Europe/Berlin:20221214T090000
+DTEND;TZID=Europe/Berlin:20221214T100000
+DTSTAMP:20230312T212743Z
+UID:6a202440-00a6-4c65-97bb-6a8e7ddd62fa
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T2 Prüfung\nBig Data\n\nTermintyp: Prüfu
+ ngstermin\nUhrzeit: 09:00 - 10:00\nRaum: LH02 (FH2.306) \nOrt: Hagenberg\n
+ Unterrichtssprache: de\nLektor: Scheibenpflug Andreas Johann \nStudiengang
+ : DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH02 (FH2.306) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221214T121000
+DTEND;TZID=Europe/Berlin:20221214T134500
+DTSTAMP:20230312T212743Z
+UID:b6d831b7-f825-4e01-a0b3-10a99cbb14cc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221214T144000
+DTEND;TZID=Europe/Berlin:20221214T170500
+DTSTAMP:20230312T212743Z
+UID:d60c34f0-afa0-4add-b742-4a9191721aeb
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20221219T085000
+DTEND;TZID=Europe/Berlin:20221219T102500
+DTSTAMP:20230312T212743Z
+UID:bf4d721d-0b1b-49b3-85f4-03fc8f713d88
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 08:50 - 10:25\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T1
+DTSTART;TZID=Europe/Berlin:20221219T103000
+DTEND;TZID=Europe/Berlin:20221219T120500
+DTSTAMP:20230312T212743Z
+UID:1b7121be-979c-4d37-9379-4a5f6fa0d715
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 10:30 - 12:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20221219T130000
+DTEND;TZID=Europe/Berlin:20221219T143500
+DTSTAMP:20230312T212743Z
+UID:1a8fbd90-5d73-482e-92f3-b89c54fa062b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: LBB2 (FH2.309) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20221219T144000
+DTEND;TZID=Europe/Berlin:20221219T152500
+DTSTAMP:20230312T212743Z
+UID:1bbfbd59-f5b6-4dbb-8804-b8c9cb22a7fd
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: LBB2 (FH2.309) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20221220T080000
+DTEND;TZID=Europe/Berlin:20221220T093500
+DTSTAMP:20230312T212743Z
+UID:1471fddc-56db-422a-8cc7-f2d222f31589
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20221220T094000
+DTEND;TZID=Europe/Berlin:20221220T102500
+DTSTAMP:20230312T212743Z
+UID:0b675182-9144-4447-8711-bf5f7dc4d4be
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20221220T121000
+DTEND;TZID=Europe/Berlin:20221220T125500
+DTSTAMP:20230312T212743Z
+UID:40da99ef-b6e4-4a5c-803c-ae968453f0e0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20221220T130000
+DTEND;TZID=Europe/Berlin:20221220T143500
+DTSTAMP:20230312T212743Z
+UID:d24721ef-de98-417c-bc92-95be262182ef
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20221221T121000
+DTEND;TZID=Europe/Berlin:20221221T134500
+DTSTAMP:20230312T212743Z
+UID:d5b53f68-e5a5-4f75-a96a-e89ff596f3fa
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20221221T144000
+DTEND;TZID=Europe/Berlin:20221221T170500
+DTSTAMP:20230312T212743Z
+UID:36ab677a-44cd-4ffe-938f-5f46a60201e6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: Porsche HS3 (FH2.025) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20230109T085000
+DTEND;TZID=Europe/Berlin:20230109T111500
+DTSTAMP:20230312T212743Z
+UID:dfa4162f-864f-4110-8f74-c87fbe470e23
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 08:50 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T1
+DTSTART;TZID=Europe/Berlin:20230109T112000
+DTEND;TZID=Europe/Berlin:20230109T120500
+DTSTAMP:20230312T212743Z
+UID:e5c463a8-336e-40af-be18-1a6e394d2ec6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 11:20 - 12:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20230109T130000
+DTEND;TZID=Europe/Berlin:20230109T143500
+DTSTAMP:20230312T212743Z
+UID:8cacb062-2f0e-4656-a0de-ae3cde3427d0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20230109T144000
+DTEND;TZID=Europe/Berlin:20230109T152500
+DTSTAMP:20230312T212743Z
+UID:3c8da04d-88ed-455b-9b74-08c7099fd8a1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20230110T080000
+DTEND;TZID=Europe/Berlin:20230110T093500
+DTSTAMP:20230312T212743Z
+UID:c95f90e9-b2ea-4381-bc2d-179583798f21
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20230110T094000
+DTEND;TZID=Europe/Berlin:20230110T102500
+DTSTAMP:20230312T212743Z
+UID:5f208171-1a48-4359-823d-1b92f88430f0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20230110T121000
+DTEND;TZID=Europe/Berlin:20230110T125500
+DTSTAMP:20230312T212743Z
+UID:489d9b32-a019-43fe-ab14-2a6bdddb0ad9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 12:55\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hage
+ nberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang:
+  DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20230110T130000
+DTEND;TZID=Europe/Berlin:20230110T143500
+DTSTAMP:20230312T212743Z
+UID:fd2f9cc6-a221-433f-8ca9-be77fba96508
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 13:00 - 14:35\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hage
+ nberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang:
+  DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20230111T080000
+DTEND;TZID=Europe/Berlin:20230111T093500
+DTSTAMP:20230312T212743Z
+UID:713ae8f8-9903-4f51-b575-4650c6c4f909
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 08:00 - 09:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20230111T094000
+DTEND;TZID=Europe/Berlin:20230111T102500
+DTSTAMP:20230312T212743Z
+UID:94c825f3-eaa3-4732-89e1-5e8acc986281
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 09:40 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20230111T121000
+DTEND;TZID=Europe/Berlin:20230111T134500
+DTSTAMP:20230312T212743Z
+UID:d787c822-6f23-4849-b484-453170bb9046
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2
+DTSTART;TZID=Europe/Berlin:20230111T144000
+DTEND;TZID=Europe/Berlin:20230111T170500
+DTSTAMP:20230312T212743Z
+UID:685ab67b-5e7b-4d16-96fd-10eebda9d9e3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: ITPRO SRS3 (FH2.325) \nOrt: H
+ agenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20230116T080000
+DTEND;TZID=Europe/Berlin:20230116T111500
+DTSTAMP:20230312T212743Z
+UID:9bbc8b4f-6fe7-4bd6-b926-e10d62ba2a46
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 08:00 - 11:15\nRaum: LBB1 (FH2.322) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1U_T1
+DTSTART;TZID=Europe/Berlin:20230116T112000
+DTEND;TZID=Europe/Berlin:20230116T120500
+DTSTAMP:20230312T212743Z
+UID:9e78c8e5-9b08-40cc-b0be-146a39bcf95f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1U_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 11:20 - 12:05\nRaum: LBB1 (FH2.322) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20230116T130000
+DTEND;TZID=Europe/Berlin:20230116T143500
+DTSTAMP:20230312T212743Z
+UID:af22afe6-9bbb-4d17-9c35-5e283548718c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20230116T144000
+DTEND;TZID=Europe/Berlin:20230116T152500
+DTSTAMP:20230312T212743Z
+UID:c74c3320-488b-4939-a512-b745378a958c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20230117T080000
+DTEND;TZID=Europe/Berlin:20230117T093500
+DTSTAMP:20230312T212743Z
+UID:6d2d7794-d5ae-4182-82cc-bf5f23ecb0c8
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20230117T094000
+DTEND;TZID=Europe/Berlin:20230117T102500
+DTSTAMP:20230312T212743Z
+UID:8dcc28b1-2b3a-4228-a31f-915c6677f96b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20230117T112000
+DTEND;TZID=Europe/Berlin:20230117T120500
+DTSTAMP:20230312T212743Z
+UID:b4d3ca7e-ee97-46ed-bd0a-997319622277
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 11:20 - 12:05\nRaum: SRA3 (FH3.523) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA3 (FH3.523) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20230117T121000
+DTEND;TZID=Europe/Berlin:20230117T134500
+DTSTAMP:20230312T212743Z
+UID:de746c4f-d1cb-4dcd-ab30-ee3e00439a82
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 13:45\nRaum: SRA3 (FH3.523) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA3 (FH3.523) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T2_T2
+DTSTART;TZID=Europe/Berlin:20230117T144000
+DTEND;TZID=Europe/Berlin:20230117T175500
+DTSTAMP:20230312T212743Z
+UID:740c694a-53a1-479b-b5b6-95288bb68ced
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T2_T2\nText Mining\n\nTermintyp: Lehrvera
+ nstaltung\nUhrzeit: 14:40 - 17:55\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\n
+ Unterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595)\n
+ \n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T1
+DTSTART;TZID=Europe/Berlin:20230118T085000
+DTEND;TZID=Europe/Berlin:20230118T111500
+DTSTAMP:20230312T212743Z
+UID:44315244-c547-4f0a-afa8-db1dde0e29a3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T1\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: LH02 (FH2.306) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Winkler Stephan \nStudiengang: DSE.ma 
+ (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH02 (FH2.306) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20230118T121000
+DTEND;TZID=Europe/Berlin:20230118T134500
+DTSTAMP:20230312T212743Z
+UID:f4dd4758-cbe3-4d1e-bc69-e07c4ca306c8
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.216) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma
+  (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T2 Prüfung
+DTSTART;TZID=Europe/Berlin:20230118T140000
+DTEND;TZID=Europe/Berlin:20230118T150000
+DTSTAMP:20230312T212743Z
+UID:6c053c17-d97b-4423-9c95-5474fd9ddccb
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T2 Prüfung\nAdvanced Scripting\n\nTermin
+ typ: Prüfungstermin\nUhrzeit: 14:00 - 15:00\nRaum: LH03 (FH2.305) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.
+ ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH03 (FH2.305) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_ASC1IL_T1
+DTSTART;TZID=Europe/Berlin:20230123T085000
+DTEND;TZID=Europe/Berlin:20230123T111500
+DTSTAMP:20230312T212743Z
+UID:57caf98a-8a54-464b-a1c1-270a34b912a5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_ASC1IL_T1\nAdvanced Scripting\n\nTermintyp: Lehr
+ veranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: LBB1 (FH2.322) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Winkler Stephan \nStudiengang: DSE.ma 
+ (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V_T2
+DTSTART;TZID=Europe/Berlin:20230123T121000
+DTEND;TZID=Europe/Berlin:20230123T134500
+DTSTAMP:20230312T212743Z
+UID:a3f13cba-b63d-46af-85b1-c4fa20a085a6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1V_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1U_T2
+DTSTART;TZID=Europe/Berlin:20230123T135000
+DTEND;TZID=Europe/Berlin:20230123T143500
+DTSTAMP:20230312T212743Z
+UID:f7e594e3-b887-4c6b-8a5e-01fa38a93063
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_1CO1U_T2\nComputational Intelligence I\n\nTermin
+ typ: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: SPAR ICS LBS2 (FH3.0
+ 09) \nOrt: Hagenberg\nUnterrichtssprache: de/en\nLektor: Kommenda Michael 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SPAR ICS LBS2 (FH3.009) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO
+DTSTART;TZID=Europe/Berlin:20230124T080000
+DTEND;TZID=Europe/Berlin:20230124T093500
+DTSTAMP:20230312T212743Z
+UID:c64af37a-2c0b-4c28-817a-42e68c543df9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1VO\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 08:00 - 09:35\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1UE
+DTSTART;TZID=Europe/Berlin:20230124T094000
+DTEND;TZID=Europe/Berlin:20230124T102500
+DTSTAMP:20230312T212743Z
+UID:ee6acf73-05fe-446c-aebc-d0d4e104c503
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:MUL1UE\nMultivariate Statistik\n\nTermintyp: Lehrv
+ eranstaltung\nUhrzeit: 09:40 - 10:25\nRaum: HOFER SRA0 (FH2.354) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, HOFER SRA0 (FH2.354) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U
+DTSTART;TZID=Europe/Berlin:20230124T112000
+DTEND;TZID=Europe/Berlin:20230124T120500
+DTSTAMP:20230312T212743Z
+UID:4757d01c-9b80-434a-8429-c84050491dc3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1U\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 11:20 - 12:05\nRaum: SRA5 (FH3.525) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA5 (FH3.525) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1V
+DTSTART;TZID=Europe/Berlin:20230124T121000
+DTEND;TZID=Europe/Berlin:20230124T134500
+DTSTAMP:20230312T212743Z
+UID:8a229405-c223-4132-b4bb-528404891606
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_NUM1V\nNumerische Methoden\n\nTermintyp: Lehrver
+ anstaltung\nUhrzeit: 12:10 - 13:45\nRaum: SRA5 (FH3.525) \nOrt: Hagenberg\
+ nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA5 (FH3.525) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T2_T2
+DTSTART;TZID=Europe/Berlin:20230124T144000
+DTEND;TZID=Europe/Berlin:20230124T175500
+DTSTAMP:20230312T212743Z
+UID:ad0ce73f-756b-4431-a0d6-9c64be0c0e0c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T2_T2\nText Mining\n\nTermintyp: Lehrvera
+ nstaltung\nUhrzeit: 14:40 - 17:55\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\n
+ Unterrichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595)\n
+ \n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL_T1
+DTSTART;TZID=Europe/Berlin:20230125T085000
+DTEND;TZID=Europe/Berlin:20230125T102500
+DTSTAMP:20230312T212743Z
+UID:0cc441b4-eb66-4bce-b02e-b4ee4f388cd5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_TMI1IL_T1\nText Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1 Klausur
+DTSTART;TZID=Europe/Berlin:20230125T110000
+DTEND;TZID=Europe/Berlin:20230125T120000
+DTSTAMP:20230312T212743Z
+UID:fe784088-5e95-4649-b00d-f4d82cfc8c0c
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1 Klausur\nBig Data\n\nTermintyp: Prüfun
+ gstermin\nUhrzeit: 11:00 - 12:00\nRaum: Porsche HS3 (FH2.025) \nOrt: Hagen
+ berg\nUnterrichtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1
+DTSTART;TZID=Europe/Berlin:20230125T123000
+DTEND;TZID=Europe/Berlin:20230125T134500
+DTSTAMP:20230312T212743Z
+UID:649da4bd-ff9c-45e4-a385-015bea9dc9b0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1\nBig Data\n\nTermintyp: Lehrveranstaltu
+ ng\nUhrzeit: 12:30 - 13:45\nRaum: LH02 (FH2.306) \nOrt: Hagenberg\nUnterri
+ chtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (0595)\n\n\
+ n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH02 (FH2.306) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_NUM1U Klausur
+DTSTART;TZID=Europe/Berlin:20230201T090000
+DTEND;TZID=Europe/Berlin:20230201T103000
+DTSTAMP:20230312T212743Z
+UID:a811bd9f-f1ce-4916-a356-fb7ada40e623
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_NUM1U Klausur\nNumerische Methoden\n\nTermintyp:
+  Prüfungstermin\nUhrzeit: 09:00 - 10:30\nRaum: Atikon HS4 (FH2.026) \nOrt
+ : Hagenberg\nUnterrichtssprache: de/en\nLektor: Dreiseitl Stephan \nStudie
+ ngang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Atikon HS4 (FH2.026) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MUL1VO Klausur
+DTSTART;TZID=Europe/Berlin:20230206T121000
+DTEND;TZID=Europe/Berlin:20230206T134500
+DTSTAMP:20230312T212743Z
+UID:65f5c410-6bcc-4878-8457-519b9e8477e8
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:MUL1VO Klausur\nMultivariate Statistik\n\nTerminty
+ p: Prüfungstermin\nUhrzeit: 12:10 - 13:45\nRaum: Porsche HS3 (FH2.025) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Petz Michael \nStudiengang
+ : DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_TMI1IL mündl. Klausur
+DTSTART;TZID=Europe/Berlin:20230208T110000
+DTEND;TZID=Europe/Berlin:20230208T170000
+DTSTAMP:20230312T212743Z
+UID:3056340e-f74b-49fd-b18a-33623e8f3609
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_TMI1IL mündl. Klausur\nText Mining\n\nTermintyp
+ : Prüfungstermin\nUhrzeit: 11:00 - 17:00\nOrt: Hagenberg\nUnterrichtsspra
+ che: de\nLektor: Kern Thomas \nStudiengang: DSE.ma (0595)\n\nZusätzliche 
+ Anmerkungen:\nBüro Prof. Kern\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_1CO1V 2. Termin
+DTSTART;TZID=Europe/Berlin:20230227T090000
+DTEND;TZID=Europe/Berlin:20230227T094500
+DTSTAMP:20230312T212743Z
+UID:9bf50532-c96e-43f6-bb74-0c2e4c6b2024
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_1CO1V 2. Termin\nComputational Intelligence I\n\
+ nTermintyp: Prüfungstermin\nUhrzeit: 09:00 - 09:45\nRaum: PLS1 (FH2.438)\
+ , PLS2 (FH2.439) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Affenze
+ ller Michael \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27
+ :43\n
+LOCATION;LANGUAGE=de:Hagenberg\, PLS1 (FH2.438)\, PLS2 (FH2.439) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230227T094000
+DTEND;TZID=Europe/Berlin:20230227T120500
+DTSTAMP:20230312T212743Z
+UID:bd7093be-81b1-44cd-a915-1ff81edd07b0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 09:40 - 12:05\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenberg\nU
+ nterrichtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230313T121000
+DTEND;TZID=Europe/Berlin:20230313T143500
+DTSTAMP:20230312T212743Z
+UID:fdad4da6-e25c-4b45-ab14-1621c7e8cfa5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 12:10 - 14:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T2
+DTSTART;TZID=Europe/Berlin:20230315T121000
+DTEND;TZID=Europe/Berlin:20230315T134500
+DTSTAMP:20230312T212743Z
+UID:fe4fa6dc-1bac-4b58-8ad1-a744e5ad55e6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T2\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 12:10 - 13:45\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Sandler Simone \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230320T085000
+DTEND;TZID=Europe/Berlin:20230320T111500
+DTSTAMP:20230312T212743Z
+UID:44645c5b-8961-45e8-a6e4-7612c96653cf
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 08:50 - 11:15\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_BGD1V_T1 2. Termin
+DTSTART;TZID=Europe/Berlin:20230321T130000
+DTEND;TZID=Europe/Berlin:20230321T140000
+DTSTAMP:20230312T212743Z
+UID:06d98ebf-e0c0-4fc1-9947-c153c9281b1f
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_BGD1V_T1 2. Termin\nBig Data\n\nTermintyp: Prüf
+ ungstermin\nUhrzeit: 13:00 - 14:00\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\
+ nUnterrichtssprache: de\nLektor: Traxler Barbara \nStudiengang: DSE.ma (05
+ 95)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230321T135000
+DTEND;TZID=Europe/Berlin:20230321T170500
+DTSTAMP:20230312T212743Z
+UID:32616873-1d6b-4462-b337-275ce3d90c40
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 13:50 - 17:05\nRaum: ITPRO SRS3 (FH2.325) \nOrt: Hagenberg\
+ nUnterrichtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma 
+ (0595)\n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO SRS3 (FH2.325) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T2
+DTSTART;TZID=Europe/Berlin:20230322T121000
+DTEND;TZID=Europe/Berlin:20230322T143500
+DTSTAMP:20230312T212743Z
+UID:c6fec17f-a7ea-4cb8-a995-12dc9d9d2226
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T2\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 12:10 - 14:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Sandler Simone \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T2
+DTSTART;TZID=Europe/Berlin:20230327T135000
+DTEND;TZID=Europe/Berlin:20230327T161500
+DTSTAMP:20230312T212743Z
+UID:fd3c127d-a5a5-4b6e-87b0-7c7f52e31f1c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T2\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 13:50 - 16:15\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Sandler Simone \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230328T121000
+DTEND;TZID=Europe/Berlin:20230328T143500
+DTSTAMP:20230312T212743Z
+UID:66abf964-3d8f-4b89-ad89-1a5a95ea008c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 12:10 - 14:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T2
+DTSTART;TZID=Europe/Berlin:20230329T153000
+DTEND;TZID=Europe/Berlin:20230329T175500
+DTSTAMP:20230312T212743Z
+UID:a1aa6556-5f9c-4a64-a036-c22bae8c8d85
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T2\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 15:30 - 17:55\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Sandler Simone \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230412T153000
+DTEND;TZID=Europe/Berlin:20230412T175500
+DTSTAMP:20230312T212743Z
+UID:fb22cf2e-6076-40dc-8345-33ce33dd30d2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 15:30 - 17:55\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230426T144000
+DTEND;TZID=Europe/Berlin:20230426T170500
+DTSTAMP:20230312T212743Z
+UID:18c9e69c-1904-4944-9d28-ec7f758cd8ae
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 14:40 - 17:05\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230509T153000
+DTEND;TZID=Europe/Berlin:20230509T175500
+DTSTAMP:20230312T212743Z
+UID:acf79087-0187-48a7-a4ea-91201ba2fa93
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 15:30 - 17:55\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T2
+DTSTART;TZID=Europe/Berlin:20230510T144000
+DTEND;TZID=Europe/Berlin:20230510T170500
+DTSTAMP:20230312T212743Z
+UID:0ded5d77-5e82-40d1-8d86-d08a6894af69
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T2\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 14:40 - 17:05\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Sandler Simone \nStudiengang: DSE.ma (0595)\n\n
+ \n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MAR2IL_T1
+DTSTART;TZID=Europe/Berlin:20230517T153000
+DTEND;TZID=Europe/Berlin:20230517T175500
+DTSTAMP:20230312T212743Z
+UID:55d06151-6de0-45b2-aba2-7ccdde7e0fd5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_MAR2IL_T1\nMarketing\n\nTermintyp: Lehrveranstal
+ tung\nUhrzeit: 15:30 - 17:55\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Pühringer Daniela \nStudiengang: DSE.ma (0595)
+ \n\n\n--\nStand: 12.03.2023 21:27:43\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

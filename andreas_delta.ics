@@ -1,0 +1,2197 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:fhooe-dse-andreas//ndrs.dev
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221003T080000
+DTEND;TZID=Europe/Berlin:20221003T102500
+DTSTAMP:20230312T212741Z
+UID:c91b2cb6-e036-4f9d-b334-d1178d56ba32
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221003T112000
+DTEND;TZID=Europe/Berlin:20221003T134500
+DTSTAMP:20230312T212741Z
+UID:e124f5a9-6918-4145-8e73-f21e6029c9e6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221004T085000
+DTEND;TZID=Europe/Berlin:20221004T102500
+DTSTAMP:20230312T212741Z
+UID:2b0d58b3-9856-456c-a6db-5dec51820af6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221004T103000
+DTEND;TZID=Europe/Berlin:20221004T111500
+DTSTAMP:20230312T212741Z
+UID:53d3d52b-128e-47b2-be7e-447f9f87aa96
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221004T121000
+DTEND;TZID=Europe/Berlin:20221004T134500
+DTSTAMP:20230312T212741Z
+UID:52e33890-46fd-4a4d-a4b1-a2c4887e6256
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221004T135000
+DTEND;TZID=Europe/Berlin:20221004T143500
+DTSTAMP:20230312T212741Z
+UID:f8f76b0e-7138-41fd-9edf-3b61547e081b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221005T112000
+DTEND;TZID=Europe/Berlin:20221005T125500
+DTSTAMP:20230312T212741Z
+UID:81f649dd-962e-461e-9b07-a22564962533
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 11:20 - 12:55\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221005T130000
+DTEND;TZID=Europe/Berlin:20221005T134500
+DTSTAMP:20230312T212741Z
+UID:562ee43d-7590-4858-9cc3-3a966f94374a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 13:00 - 13:45\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221010T080000
+DTEND;TZID=Europe/Berlin:20221010T102500
+DTSTAMP:20230312T212741Z
+UID:0748ab77-0841-49ce-9def-2be37bc9cf33
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221010T112000
+DTEND;TZID=Europe/Berlin:20221010T134500
+DTSTAMP:20230312T212741Z
+UID:69e4a443-e82c-4ae3-94a0-e4fba1d4eaf2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221011T085000
+DTEND;TZID=Europe/Berlin:20221011T102500
+DTSTAMP:20230312T212741Z
+UID:a9591c0f-ddf7-4e90-b554-35f6d54e0bf6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221011T103000
+DTEND;TZID=Europe/Berlin:20221011T111500
+DTSTAMP:20230312T212741Z
+UID:a2d2b2f8-4760-49ad-acc2-5e1a2ef011ef
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221011T121000
+DTEND;TZID=Europe/Berlin:20221011T134500
+DTSTAMP:20230312T212741Z
+UID:064938be-3f7d-4fda-9162-267021a5bfa7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221011T135000
+DTEND;TZID=Europe/Berlin:20221011T143500
+DTSTAMP:20230312T212741Z
+UID:7ce42324-250f-498e-a0b5-b1b44cfb031c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221012T085000
+DTEND;TZID=Europe/Berlin:20221012T102500
+DTSTAMP:20230312T212741Z
+UID:20735739-a67b-4698-8200-35ff51f8ef0c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221012T103000
+DTEND;TZID=Europe/Berlin:20221012T111500
+DTSTAMP:20230312T212741Z
+UID:068fd24e-b65e-4100-b46c-68070338b3a0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221017T080000
+DTEND;TZID=Europe/Berlin:20221017T102500
+DTSTAMP:20230312T212741Z
+UID:4c18a2d7-d839-40d0-a132-7d3bbcb1bce9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_MOS2V Prüfung 
+DTSTART;TZID=Europe/Berlin:20221017T110000
+DTEND;TZID=Europe/Berlin:20221017T111500
+DTSTAMP:20230312T212741Z
+UID:9e304760-5d67-40e7-bf3f-62fd5c6a0582
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_MOS2V Prüfung \nModellbildung und Simulation\n\
+ nTermintyp: Prüfungstermin\nUhrzeit: 11:00 - 11:15\nOrt: Hagenberg\nUnter
+ richtssprache: de\nLektor: Winkler Stephan \nStudiengang: DSE.ma (0595)\n\
+ nZusätzliche Anmerkungen:\nBüro Prof. Winkler\n--\nStand: 12.03.2023 21:
+ 27:41\n
+LOCATION;LANGUAGE=de:Hagenberg
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221017T112000
+DTEND;TZID=Europe/Berlin:20221017T134500
+DTSTAMP:20230312T212741Z
+UID:26065d0e-c7de-459d-a9a6-1fd7f1010ea8
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221018T094000
+DTEND;TZID=Europe/Berlin:20221018T111500
+DTSTAMP:20230312T212741Z
+UID:02a332cd-954c-4865-85f6-7698d633ba43
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221018T121000
+DTEND;TZID=Europe/Berlin:20221018T134500
+DTSTAMP:20230312T212741Z
+UID:5a13855b-b698-42b3-afcd-09a739717a2e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221018T135000
+DTEND;TZID=Europe/Berlin:20221018T143500
+DTSTAMP:20230312T212741Z
+UID:4783a095-2987-4b14-933e-800addef76d5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221019T085000
+DTEND;TZID=Europe/Berlin:20221019T102500
+DTSTAMP:20230312T212741Z
+UID:0876d289-baff-4721-b1f5-296d6234b7f5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221019T103000
+DTEND;TZID=Europe/Berlin:20221019T111500
+DTSTAMP:20230312T212741Z
+UID:94b619b7-d3b1-4e45-bebc-6e4d29da47e1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221024T085000
+DTEND;TZID=Europe/Berlin:20221024T111500
+DTSTAMP:20230312T212741Z
+UID:167c2271-5d15-4283-84bb-6b70f023f702
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221024T121000
+DTEND;TZID=Europe/Berlin:20221024T143500
+DTSTAMP:20230312T212741Z
+UID:9e0ead5c-2554-4546-8278-98c822a15100
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221025T085000
+DTEND;TZID=Europe/Berlin:20221025T102500
+DTSTAMP:20230312T212741Z
+UID:e1157ca0-6223-42bd-954a-f2c775e4d5ff
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221025T103000
+DTEND;TZID=Europe/Berlin:20221025T120500
+DTSTAMP:20230312T212741Z
+UID:f66c35e2-e2d7-411b-8b52-3406963c60e9
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 12:05\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221025T130000
+DTEND;TZID=Europe/Berlin:20221025T143500
+DTSTAMP:20230312T212741Z
+UID:0e92c336-4f68-416e-ba75-06ebb6f4a18d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221025T144000
+DTEND;TZID=Europe/Berlin:20221025T152500
+DTSTAMP:20230312T212741Z
+UID:c1101b08-5336-450b-bb9a-0abfff791e5a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221031T085000
+DTEND;TZID=Europe/Berlin:20221031T111500
+DTSTAMP:20230312T212741Z
+UID:168a371d-57c1-4da8-a8af-0afbdc190c2d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221031T121000
+DTEND;TZID=Europe/Berlin:20221031T143500
+DTSTAMP:20230312T212741Z
+UID:13785012-ce2c-4d19-9470-a7d03ca6d53f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221102T085000
+DTEND;TZID=Europe/Berlin:20221102T102500
+DTSTAMP:20230312T212741Z
+UID:a7b56ed6-0909-459d-a0ac-0e398bf95734
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221102T103000
+DTEND;TZID=Europe/Berlin:20221102T111500
+DTSTAMP:20230312T212741Z
+UID:cced9917-1454-4baf-81d6-51f1cc830d84
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221107T085000
+DTEND;TZID=Europe/Berlin:20221107T111500
+DTSTAMP:20230312T212741Z
+UID:8812dd56-4528-49b7-a4cd-d2d0a89543f4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221107T121000
+DTEND;TZID=Europe/Berlin:20221107T143500
+DTSTAMP:20230312T212741Z
+UID:be07ca90-ce06-407a-aaec-0b718dc3be34
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221108T094000
+DTEND;TZID=Europe/Berlin:20221108T111500
+DTSTAMP:20230312T212741Z
+UID:3820926d-048e-4392-a843-7b54017f930a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221108T121000
+DTEND;TZID=Europe/Berlin:20221108T134500
+DTSTAMP:20230312T212741Z
+UID:b05104f0-6c61-4b15-8ddc-dfad3577b65d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221108T135000
+DTEND;TZID=Europe/Berlin:20221108T143500
+DTSTAMP:20230312T212741Z
+UID:0e35335d-7adc-4c24-b37d-5efd87469849
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_WIS4S
+DTSTART;TZID=Europe/Berlin:20221108T153000
+DTEND;TZID=Europe/Berlin:20221108T170500
+DTSTAMP:20230312T212741Z
+UID:00ae0d67-6a63-47cc-8bc1-13803dc398c5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_WIS4S\nWissenschaftliches Arbeiten\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 15:30 - 17:05\nRaum: MIC SRS2 (FH2.324)\, Onl
+ ine\nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Schwarzl Thomas \nStu
+ diengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324)\, Online
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221109T085000
+DTEND;TZID=Europe/Berlin:20221109T102500
+DTSTAMP:20230312T212741Z
+UID:a41a333b-32c3-4b4b-82cc-3e3e940606ab
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221109T103000
+DTEND;TZID=Europe/Berlin:20221109T111500
+DTSTAMP:20230312T212741Z
+UID:e227b535-6eae-4786-bd5f-c7cfc49acc77
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_WIS4S
+DTSTART;TZID=Europe/Berlin:20221109T153000
+DTEND;TZID=Europe/Berlin:20221109T170500
+DTSTAMP:20230312T212741Z
+UID:63c99b18-d527-4302-b19e-b33a5a86f782
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_WIS4S\nWissenschaftliches Arbeiten\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 15:30 - 17:05\nRaum: MIC SRS2 (FH2.324)\, Onl
+ ine\nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Schwarzl Thomas \nStu
+ diengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324)\, Online
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221115T080000
+DTEND;TZID=Europe/Berlin:20221115T093500
+DTSTAMP:20230312T212741Z
+UID:de0415df-a766-4b55-aec2-01b9c96daff6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:00 - 09:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221115T094000
+DTEND;TZID=Europe/Berlin:20221115T111500
+DTSTAMP:20230312T212741Z
+UID:426a74a2-afc2-4d46-93ca-265b6d31800f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221115T121000
+DTEND;TZID=Europe/Berlin:20221115T134500
+DTSTAMP:20230312T212741Z
+UID:8a36eb44-e676-41e2-bfb5-4d29f4ce4a39
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221115T135000
+DTEND;TZID=Europe/Berlin:20221115T143500
+DTSTAMP:20230312T212741Z
+UID:0a77bbe1-d4a1-4f54-a1e1-fae7d45f47ce
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T2
+DTSTART;TZID=Europe/Berlin:20221115T153000
+DTEND;TZID=Europe/Berlin:20221115T170500
+DTSTAMP:20230312T212741Z
+UID:9aeec7fd-93a2-4245-9b33-555c46f66dcb
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T2\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 15:30 - 17:05\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Temml Veronika \nStudienga
+ ng: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221116T094000
+DTEND;TZID=Europe/Berlin:20221116T111500
+DTSTAMP:20230312T212741Z
+UID:a2a31dbf-e17c-4bc7-9587-1af533638fef
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221116T112000
+DTEND;TZID=Europe/Berlin:20221116T120500
+DTSTAMP:20230312T212741Z
+UID:0ba8eff0-bddb-45e3-8900-63b9faff83ed
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 11:20 - 12:05\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T2
+DTSTART;TZID=Europe/Berlin:20221116T130000
+DTEND;TZID=Europe/Berlin:20221116T143500
+DTSTAMP:20230312T212741Z
+UID:7f99a1f3-7e94-45ba-86de-2a3df6921361
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T2\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: Online OÖN HS1 (FH1.005
+ ) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Temml Veronika \nStudi
+ engang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221121T080000
+DTEND;TZID=Europe/Berlin:20221121T102500
+DTSTAMP:20230312T212741Z
+UID:26c2df84-4361-423c-9a95-ff8f97a895ac
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221121T112000
+DTEND;TZID=Europe/Berlin:20221121T134500
+DTSTAMP:20230312T212741Z
+UID:917c08ca-343c-4811-b3e3-853b13a67e92
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221122T094000
+DTEND;TZID=Europe/Berlin:20221122T111500
+DTSTAMP:20230312T212741Z
+UID:00136854-0864-4666-9388-45eed98188e4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221122T121000
+DTEND;TZID=Europe/Berlin:20221122T134500
+DTSTAMP:20230312T212741Z
+UID:24b55100-a8ae-4ef4-9083-772e1995d584
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221122T135000
+DTEND;TZID=Europe/Berlin:20221122T143500
+DTSTAMP:20230312T212741Z
+UID:bd61a277-e421-4aaa-9be9-129e0d418ea0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221123T085000
+DTEND;TZID=Europe/Berlin:20221123T102500
+DTSTAMP:20230312T212741Z
+UID:2f8d58de-87fa-4c5b-b5c6-e0122f86ee1e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221123T103000
+DTEND;TZID=Europe/Berlin:20221123T111500
+DTSTAMP:20230312T212741Z
+UID:2d93115b-497e-451e-99f1-169c31dac5e5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20221123T121000
+DTEND;TZID=Europe/Berlin:20221123T134500
+DTSTAMP:20230312T212741Z
+UID:8fbd1696-ff11-4c28-b03c-cd7b6fb961c6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221128T080000
+DTEND;TZID=Europe/Berlin:20221128T102500
+DTSTAMP:20230312T212741Z
+UID:1ec2305c-b74f-40b8-96db-8ac1ef5d7bbf
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221128T112000
+DTEND;TZID=Europe/Berlin:20221128T134500
+DTSTAMP:20230312T212741Z
+UID:f2302691-8668-444c-b054-be0ddcbc4dae
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20221128T144000
+DTEND;TZID=Europe/Berlin:20221128T175500
+DTSTAMP:20230312T212741Z
+UID:807167ef-d76a-47c7-91f2-511d24cfb6d6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 14:40 - 17:55\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221129T080000
+DTEND;TZID=Europe/Berlin:20221129T093500
+DTSTAMP:20230312T212741Z
+UID:299d0da5-b317-423a-9415-4a0c29eea6b4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:00 - 09:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221129T094000
+DTEND;TZID=Europe/Berlin:20221129T111500
+DTSTAMP:20230312T212741Z
+UID:f8d76ed7-ce9d-4323-95e6-e3d1d4b525dd
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221129T121000
+DTEND;TZID=Europe/Berlin:20221129T134500
+DTSTAMP:20230312T212741Z
+UID:94d18a09-e31e-4527-b756-49baa9b9fc77
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221129T135000
+DTEND;TZID=Europe/Berlin:20221129T143500
+DTSTAMP:20230312T212741Z
+UID:18ef9e57-24cc-45d6-88de-8f69e93e748a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221130T085000
+DTEND;TZID=Europe/Berlin:20221130T102500
+DTSTAMP:20230312T212741Z
+UID:de1b304c-5b3f-4a9e-8b83-12a550e7df86
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221130T103000
+DTEND;TZID=Europe/Berlin:20221130T111500
+DTSTAMP:20230312T212741Z
+UID:cbc55b86-79d9-445d-95b6-0607eb3ebd9a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221205T080000
+DTEND;TZID=Europe/Berlin:20221205T102500
+DTSTAMP:20230312T212741Z
+UID:f0f16dde-9b3b-47cb-9602-1281ba3da466
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221205T112000
+DTEND;TZID=Europe/Berlin:20221205T134500
+DTSTAMP:20230312T212741Z
+UID:2c5880db-a10d-4cc0-9262-399da80120bc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221206T121000
+DTEND;TZID=Europe/Berlin:20221206T134500
+DTSTAMP:20230312T212741Z
+UID:cfb2fe84-83c7-488b-b13d-c087646a00b2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221206T135000
+DTEND;TZID=Europe/Berlin:20221206T143500
+DTSTAMP:20230312T212741Z
+UID:4bcef21b-7d2b-49e4-942f-36f43059e24d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221207T085000
+DTEND;TZID=Europe/Berlin:20221207T102500
+DTSTAMP:20230312T212741Z
+UID:f1486695-adc8-4fcc-beb8-9d34672ac6a5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221207T103000
+DTEND;TZID=Europe/Berlin:20221207T111500
+DTSTAMP:20230312T212741Z
+UID:5957045c-51c7-4b34-9532-6696d927aa16
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LBS1 (FH3.008) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBS1 (FH3.008) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T2
+DTSTART;TZID=Europe/Berlin:20221207T121000
+DTEND;TZID=Europe/Berlin:20221207T152500
+DTSTAMP:20230312T212741Z
+UID:2c55e41d-fd34-4594-b771-3a8a093f8762
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T2\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 12:10 - 15:25\nRaum: Online Porsche HS3 (FH2.
+ 025) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Temml Veronika \nSt
+ udiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online Porsche HS3 (FH2.025) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221212T080000
+DTEND;TZID=Europe/Berlin:20221212T102500
+DTSTAMP:20230312T212741Z
+UID:bb4ab7fc-e775-4e87-ae2e-32874c58e75e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221212T112000
+DTEND;TZID=Europe/Berlin:20221212T134500
+DTSTAMP:20230312T212741Z
+UID:c7b04585-fa83-4a01-9ca9-d7617d3cdb96
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221213T080000
+DTEND;TZID=Europe/Berlin:20221213T102500
+DTSTAMP:20230312T212741Z
+UID:96066d5d-695d-47fe-b8c1-4fa8b4da0c62
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:00 - 10:25\nRaum: MIC SRS2 (FH2.324) \nOrt: Hagenberg\
+ nUnterrichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.m
+ a (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221213T112000
+DTEND;TZID=Europe/Berlin:20221213T125500
+DTSTAMP:20230312T212741Z
+UID:7966ab41-b1e9-4948-9b43-bad4082df1ba
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 11:20 - 12:55\nRaum: SRA5 (FH3.525) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \nStudiengang
+ : DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA5 (FH3.525) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221213T130000
+DTEND;TZID=Europe/Berlin:20221213T134500
+DTSTAMP:20230312T212741Z
+UID:fe29ed34-bdac-4e8a-be1d-f79d2c0b03b2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:00 - 13:45\nRaum: SRA5 (FH3.525) \nOrt: 
+ Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \nStudiengang
+ : DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRA5 (FH3.525) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221214T094000
+DTEND;TZID=Europe/Berlin:20221214T111500
+DTSTAMP:20230312T212741Z
+UID:f42eb376-f9eb-4ec9-ac39-4a3b25b7c80e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: Avocodo LBS5 (FH2.326) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Avocodo LBS5 (FH2.326) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221214T112000
+DTEND;TZID=Europe/Berlin:20221214T120500
+DTSTAMP:20230312T212741Z
+UID:5213c8f6-28e4-43fd-83be-cf8552bee4f3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 11:20 - 12:05\nRaum: Avocodo LBS5 (FH2.326) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Avocodo LBS5 (FH2.326) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20221214T130000
+DTEND;TZID=Europe/Berlin:20221214T161500
+DTSTAMP:20230312T212741Z
+UID:20aa0991-de54-45a5-8785-f415d2776426
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 13:00 - 16:15\nRaum: Online OÖN HS1 (FH1.005
+ ) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStu
+ diengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221219T080000
+DTEND;TZID=Europe/Berlin:20221219T102500
+DTSTAMP:20230312T212741Z
+UID:c2ebc6ec-782d-4512-ac0f-026214c9bc4c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20221219T112000
+DTEND;TZID=Europe/Berlin:20221219T134500
+DTSTAMP:20230312T212741Z
+UID:aa5ed694-3e32-4aba-8575-40fa495371b3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20221220T080000
+DTEND;TZID=Europe/Berlin:20221220T093500
+DTSTAMP:20230312T212741Z
+UID:ead5590a-9938-45fb-ab29-ac518b52076f
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:00 - 09:35\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20221220T094000
+DTEND;TZID=Europe/Berlin:20221220T111500
+DTSTAMP:20230312T212741Z
+UID:f21ebb99-61a6-4839-b9f1-4fe63bbfed7e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20221220T121000
+DTEND;TZID=Europe/Berlin:20221220T134500
+DTSTAMP:20230312T212741Z
+UID:390b517c-06d1-486f-ba32-43bd410cf79e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20221220T135000
+DTEND;TZID=Europe/Berlin:20221220T143500
+DTSTAMP:20230312T212741Z
+UID:ed9a283d-2e18-4d72-a962-e2fdc94290ae
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20221221T085000
+DTEND;TZID=Europe/Berlin:20221221T102500
+DTSTAMP:20230312T212741Z
+UID:4e18f4d2-98bd-46f7-95ad-069c8b84fe92
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20221221T103000
+DTEND;TZID=Europe/Berlin:20221221T111500
+DTSTAMP:20230312T212741Z
+UID:e934fc65-a567-4741-8a5c-d181ce0ce366
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230109T085000
+DTEND;TZID=Europe/Berlin:20230109T111500
+DTSTAMP:20230312T212741Z
+UID:849cf4b9-8cab-4cdc-9f1c-11a734b4b336
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:50 - 11:15\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230109T121000
+DTEND;TZID=Europe/Berlin:20230109T143500
+DTSTAMP:20230312T212741Z
+UID:d5ec06f3-ce5d-491e-a2f5-73c451b4d87e
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_WIS4S
+DTSTART;TZID=Europe/Berlin:20230109T153000
+DTEND;TZID=Europe/Berlin:20230109T170500
+DTSTAMP:20230312T212741Z
+UID:d7ee6aba-ffb9-43c1-8223-36c4fcd525c7
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_WIS4S\nWissenschaftliches Arbeiten\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 15:30 - 17:05\nRaum: MIC SRS2 (FH2.324)\, Onl
+ ine\nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Schwarzl Thomas \nStu
+ diengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, MIC SRS2 (FH2.324)\, Online
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20230110T085000
+DTEND;TZID=Europe/Berlin:20230110T111500
+DTSTAMP:20230312T212741Z
+UID:157bcbec-5eef-485e-859b-913eb1a3cb60
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20230110T121000
+DTEND;TZID=Europe/Berlin:20230110T134500
+DTSTAMP:20230312T212741Z
+UID:2028ce4d-7f5e-43b3-8dd0-4db77768baff
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20230110T135000
+DTEND;TZID=Europe/Berlin:20230110T143500
+DTSTAMP:20230312T212741Z
+UID:4e0cf73b-62b4-4266-85a9-c0af40108272
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20230111T085000
+DTEND;TZID=Europe/Berlin:20230111T102500
+DTSTAMP:20230312T212741Z
+UID:19e46f15-7a7a-4dcc-9a72-773d0c4286db
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: LH03 (FH2.305) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH03 (FH2.305) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20230111T103000
+DTEND;TZID=Europe/Berlin:20230111T111500
+DTSTAMP:20230312T212741Z
+UID:c05b19fb-c944-46f4-821b-ab0a42e044e1
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: LH03 (FH2.305) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0595)\n\
+ n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LH03 (FH2.305) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20230111T121000
+DTEND;TZID=Europe/Berlin:20230111T161500
+DTSTAMP:20230312T212741Z
+UID:d8a67e28-445e-4f17-8ac0-20bc791bce05
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 12:10 - 16:15\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230116T080000
+DTEND;TZID=Europe/Berlin:20230116T102500
+DTSTAMP:20230312T212741Z
+UID:db621f38-9f35-4b68-b4d3-3b3625736e55
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230116T112000
+DTEND;TZID=Europe/Berlin:20230116T134500
+DTSTAMP:20230312T212741Z
+UID:e9a3abd4-297b-4619-b0ce-5de0ba40f442
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:20 - 13:45\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20230116T135000
+DTEND;TZID=Europe/Berlin:20230116T175500
+DTSTAMP:20230312T212741Z
+UID:25e2a784-af9e-43bb-ac95-c89d968adbbb
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 13:50 - 17:55\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStudien
+ gang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20230117T085000
+DTEND;TZID=Europe/Berlin:20230117T102500
+DTSTAMP:20230312T212741Z
+UID:c29e336d-c2c8-41c1-9d73-afa2ed8165c6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V
+DTSTART;TZID=Europe/Berlin:20230117T103000
+DTEND;TZID=Europe/Berlin:20230117T120500
+DTSTAMP:20230312T212741Z
+UID:c976724b-4158-44bf-8f9f-c1c5df8235dc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3V\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 12:05\nRaum: SRB1 (FH2.321) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20230117T130000
+DTEND;TZID=Europe/Berlin:20230117T143500
+DTSTAMP:20230312T212741Z
+UID:2fb1027b-ce60-4b48-bcdd-4878cca39d03
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:00 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20230117T144000
+DTEND;TZID=Europe/Berlin:20230117T152500
+DTSTAMP:20230312T212741Z
+UID:6f544008-c17e-45ca-a880-8481e008baa4
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 14:40 - 15:25\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20230118T094000
+DTEND;TZID=Europe/Berlin:20230118T111500
+DTSTAMP:20230312T212741Z
+UID:2a30fe49-8e38-451d-9bc9-60cc3db66a1b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: Avocodo LBS5 (FH2.326) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Avocodo LBS5 (FH2.326) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20230118T112000
+DTEND;TZID=Europe/Berlin:20230118T120500
+DTSTAMP:20230312T212741Z
+UID:6cd43f0c-53aa-4b2e-aa85-87003dd4aad3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 11:20 - 12:05\nRaum: Avocodo LBS5 (FH2.326) \nOrt: Hagenb
+ erg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Avocodo LBS5 (FH2.326) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T2
+DTSTART;TZID=Europe/Berlin:20230118T130000
+DTEND;TZID=Europe/Berlin:20230118T170500
+DTSTAMP:20230312T212741Z
+UID:51809e98-b66e-4ad8-943d-5e528ad608bc
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T2\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 13:00 - 17:05\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Temml Veronika \nStudienga
+ ng: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230123T080000
+DTEND;TZID=Europe/Berlin:20230123T102500
+DTSTAMP:20230312T212741Z
+UID:2b7d5694-8913-4442-976e-6f3e3b1a428c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 08:00 - 10:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_SPD2PR_Gr.3
+DTSTART;TZID=Europe/Berlin:20230123T110000
+DTEND;TZID=Europe/Berlin:20230123T132500
+DTSTAMP:20230312T212741Z
+UID:733c76f0-c62f-4c7e-ba44-7ac947c3c819
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_SPD2PR_Gr.3\nStudienprojekt Praktische Datenanal
+ yse\n\nTermintyp: Lehrveranstaltung\nUhrzeit: 11:00 - 13:25\nRaum: ITPRO P
+ LS4 (FH2.338) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Fried Alex
+ ander \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, ITPRO PLS4 (FH2.338) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T2
+DTSTART;TZID=Europe/Berlin:20230123T135000
+DTEND;TZID=Europe/Berlin:20230123T175500
+DTSTAMP:20230312T212741Z
+UID:25fe9eba-b41c-4a71-b529-fd5214abdadd
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T2\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 13:50 - 17:55\nRaum: Online SRB1 (FH2.321) \n
+ Ort: Hagenberg\nUnterrichtssprache: de\nLektor: Temml Veronika \nStudienga
+ ng: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Online SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20230124T094000
+DTEND;TZID=Europe/Berlin:20230124T111500
+DTSTAMP:20230312T212741Z
+UID:3063bc61-3f73-494e-afbc-db1201eeb153
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 09:40 - 11:15\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V
+DTSTART;TZID=Europe/Berlin:20230124T121000
+DTEND;TZID=Europe/Berlin:20230124T134500
+DTSTAMP:20230312T212741Z
+UID:66d22c86-df0b-49ce-883b-ea6a1376a8ef
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3V\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 12:10 - 13:45\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3U
+DTSTART;TZID=Europe/Berlin:20230124T135000
+DTEND;TZID=Europe/Berlin:20230124T143500
+DTSTAMP:20230312T212741Z
+UID:5808623b-8996-45de-93af-58f0c5d406a0
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DSP3U\nDatenschutz und Privatsphäre\n\nTerminty
+ p: Lehrveranstaltung\nUhrzeit: 13:50 - 14:35\nRaum: 3 Banken IT SRS1 (FH3.
+ 216) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, 3 Banken IT SRS1 (FH3.216) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3VO
+DTSTART;TZID=Europe/Berlin:20230125T085000
+DTEND;TZID=Europe/Berlin:20230125T102500
+DTSTAMP:20230312T212741Z
+UID:b62a1133-43a9-4485-8057-9790d8fbe33d
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3VO\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 08:50 - 10:25\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_PRM3UE
+DTSTART;TZID=Europe/Berlin:20230125T103000
+DTEND;TZID=Europe/Berlin:20230125T111500
+DTSTAMP:20230312T212741Z
+UID:7aa7cc27-91d7-4c35-b52e-174a5be34101
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_PRM3UE\nProcess Mining\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 11:15\nRaum: XORTEX LBS3 (FH3.108) \nOrt: Hagenbe
+ rg\nUnterrichtssprache: de\nLektor: Helm Emmanuel \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, XORTEX LBS3 (FH3.108) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DDD3IL_T1
+DTSTART;TZID=Europe/Berlin:20230125T121000
+DTEND;TZID=Europe/Berlin:20230125T152500
+DTSTAMP:20230312T212741Z
+UID:fe4e2ea4-ba05-496b-ad6e-7c5e2cfa2b3a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_DDD3IL_T1\nData Driven Drug Design\n\nTermintyp:
+  Lehrveranstaltung\nUhrzeit: 12:10 - 15:25\nRaum: SRB1 (FH2.321) \nOrt: Ha
+ genberg\nUnterrichtssprache: de\nLektor: Schuster Daniela \nStudiengang: D
+ SE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, SRB1 (FH2.321) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_CLC3V Klausur
+DTSTART;TZID=Europe/Berlin:20230130T100000
+DTEND;TZID=Europe/Berlin:20230130T113000
+DTSTAMP:20230312T212741Z
+UID:578ca426-df01-471b-9cb6-c736f143bf2f
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_CLC3V Klausur\nCloud Computing\n\nTermintyp: Pr
+ üfungstermin\nUhrzeit: 10:00 - 11:30\nRaum: OÖN HS1 (FH1.005) \nOrt: Hag
+ enberg\nUnterrichtssprache: de\nLektor: Pimminger Sebastian \nStudiengang:
+  DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_CLC3U Projektpräsentationen
+DTSTART;TZID=Europe/Berlin:20230130T123000
+DTEND;TZID=Europe/Berlin:20230130T160000
+DTSTAMP:20230312T212741Z
+UID:8ddceaaa-8396-471c-8502-f8d0c5c8fae5
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_CLC3U Projektpräsentationen\nCloud Computing\n\
+ nTermintyp: Prüfungstermin\nUhrzeit: 12:30 - 16:00\nRaum: OÖN HS1 (FH1.0
+ 05) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Pimminger Sebastian 
+ \nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, OÖN HS1 (FH1.005) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_DSP3V Klausur
+DTSTART;TZID=Europe/Berlin:20230131T120000
+DTEND;TZID=Europe/Berlin:20230131T130000
+DTSTAMP:20230312T212741Z
+UID:d8573c08-666d-48f9-bbf7-fb5e5bcd5ddd
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_DSP3V Klausur\nDatenschutz und Privatsphäre\n\n
+ Termintyp: Prüfungstermin\nUhrzeit: 12:00 - 13:00\nRaum: Atikon HS4 (FH2.
+ 026) \nOrt: Hagenberg\nUnterrichtssprache: de\nLektor: Burgstaller Peter \
+ nStudiengang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Atikon HS4 (FH2.026) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3V Klausur
+DTSTART;TZID=Europe/Berlin:20230206T130000
+DTEND;TZID=Europe/Berlin:20230206T142000
+DTSTAMP:20230312T212741Z
+UID:6d20b815-498c-4a8a-91ef-73074069b688
+SEQUENCE:0
+CATEGORIES:Prüfungstermin
+DESCRIPTION;LANGUAGE=de:0_COV3V Klausur\nComputer Vision\n\nTermintyp: Pr
+ üfungstermin\nUhrzeit: 13:00 - 14:20\nRaum: karriere.at AM (FH2.020) \nOr
+ t: Hagenberg\nUnterrichtssprache: de\nLektor: Zwettler Gerald Adam \nStudi
+ engang: DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, karriere.at AM (FH2.020) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_COV3U
+DTSTART;TZID=Europe/Berlin:20230208T103000
+DTEND;TZID=Europe/Berlin:20230208T125500
+DTSTAMP:20230312T212741Z
+UID:ed44e631-1f5f-489e-9c2d-1339a0deecb3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_COV3U\nComputer Vision\n\nTermintyp: Lehrveranst
+ altung\nUhrzeit: 10:30 - 12:55\nRaum: LBB2 (FH2.309) \nOrt: Hagenberg\nUnt
+ errichtssprache: de\nLektor: Zwettler Gerald Adam \nStudiengang: DSE.ma (0
+ 595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230315T121000
+DTEND;TZID=Europe/Berlin:20230315T143500
+DTSTAMP:20230312T212741Z
+UID:c8b0fa1e-b448-4b37-9794-2ae573c94fdb
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230315T153000
+DTEND;TZID=Europe/Berlin:20230315T175500
+DTSTAMP:20230312T212741Z
+UID:e1fb9fde-1c25-4de0-a9db-aa539c180515
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230322T121000
+DTEND;TZID=Europe/Berlin:20230322T143500
+DTSTAMP:20230312T212741Z
+UID:aece256f-3e9f-4167-9fc2-c418561ff3f3
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 12:10 - 14:35\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230329T153000
+DTEND;TZID=Europe/Berlin:20230329T175500
+DTSTAMP:20230312T212741Z
+UID:fa5fc9c7-5844-4133-9700-9d0c37ba0b9b
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230412T153000
+DTEND;TZID=Europe/Berlin:20230412T175500
+DTSTAMP:20230312T212741Z
+UID:9c924e0f-fab6-4775-8743-9d78b0266e17
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230426T144000
+DTEND;TZID=Europe/Berlin:20230426T170500
+DTSTAMP:20230312T212741Z
+UID:a52a5cc9-3ac3-4fd2-9699-d9961eb5ecf2
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230508T121000
+DTEND;TZID=Europe/Berlin:20230508T170500
+DTSTAMP:20230312T212741Z
+UID:99b5bc99-cddd-4f0f-85cf-e9892fa4f3e6
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 12:10 - 17:05\nOrt: Hagenberg\nUnterrichtssprac
+ he: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (0595)\n\nZusätzliche A
+ nmerkungen:\nExkursion\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230510T144000
+DTEND;TZID=Europe/Berlin:20230510T170500
+DTSTAMP:20230312T212741Z
+UID:fc43d7c4-6de6-4a1f-b6f2-4dcce539552a
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 14:40 - 17:05\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230517T153000
+DTEND;TZID=Europe/Berlin:20230517T175500
+DTSTAMP:20230312T212741Z
+UID:148927ce-5a54-498f-ad9b-e01db4ac3ed5
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: Avocodo LBS5 (FH2.326) \nO
+ rt: Hagenberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: 
+ DSE.ma (0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, Avocodo LBS5 (FH2.326) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230531T153000
+DTEND;TZID=Europe/Berlin:20230531T175500
+DTSTAMP:20230312T212741Z
+UID:7f2ad704-c28f-4b0c-bf90-0fc2e5c81a91
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230607T153000
+DTEND;TZID=Europe/Berlin:20230607T175500
+DTSTAMP:20230312T212741Z
+UID:edae1d6a-2ffd-4631-8dda-f7f4ca65cb4c
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB1 (FH2.322) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB1 (FH2.322) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230614T153000
+DTEND;TZID=Europe/Berlin:20230614T175500
+DTSTAMP:20230312T212741Z
+UID:04484c03-5487-49d9-9875-01511a5d8055
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0_KLS2IL
+DTSTART;TZID=Europe/Berlin:20230621T153000
+DTEND;TZID=Europe/Berlin:20230621T175500
+DTSTAMP:20230312T212741Z
+UID:02ccfce9-fbff-4444-9ca4-203bdab9e364
+SEQUENCE:0
+CATEGORIES:Lehrveranstaltung
+DESCRIPTION;LANGUAGE=de:0_KLS2IL\nEpidemiologische Studien\n\nTermintyp: L
+ ehrveranstaltung\nUhrzeit: 15:30 - 17:55\nRaum: LBB2 (FH2.309) \nOrt: Hage
+ nberg\nUnterrichtssprache: de\nLektor: Lirk Gerald \nStudiengang: DSE.ma (
+ 0595)\n\n\n--\nStand: 12.03.2023 21:27:41\n
+LOCATION;LANGUAGE=de:Hagenberg\, LBB2 (FH2.309) 
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

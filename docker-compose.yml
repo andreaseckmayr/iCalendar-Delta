@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  ical-delta:
+    container_name: 'ical-delta'
+    build: .
+    ports: 
+      - 5000:5000
