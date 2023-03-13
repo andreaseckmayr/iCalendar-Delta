@@ -1,5 +1,5 @@
 #!/bin/bash
 while true; do
-  python3 /calendar/ical_delta.py
-  sleep 60
+  python3 ical_delta.py > ical_delta.log
+  sleep 600
 done

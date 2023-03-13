@@ -9,6 +9,8 @@ from icalendar import Calendar, Event
 from datetime import datetime
 from pytz import UTC
 import urllib3
+import os
+import datetime
 
 # %%
 def get_uids(cal):
@@ -59,13 +61,13 @@ for comp in cal_a.walk():
             cal_b_delta.add_component(comp)
 
 # %%  write calendars to file
-f = open('e024f9589c1e9d64b34cb1257d9c9dfc.ics', 'wb')  # $ echo -n andreas | md5sum -> andreas
+f = open(os.path.join('/calendars', 'e024f9589c1e9d64b34cb1257d9c9dfc.ics'), 'wb')  # $ echo -n andreas | md5sum -> andreas
 f.write(cal_a_delta.to_ical())
 f.close()
 
-f = open('1d68c3cd963944443cfed7b42ffde9c4.ics', 'wb')  # magdalena
+f = open(os.path.join('/calendars', '1d68c3cd963944443cfed7b42ffde9c4.ics'), 'wb')  # magdalena
 f.write(cal_b_delta.to_ical())
 f.close()
 
 # %%
-print('cal sync completed')
+print(f'{datetime.datetime.now()}: cal sync completed')

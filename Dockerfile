@@ -2,12 +2,20 @@ FROM ubuntu:latest
 
 RUN apt-get update && apt-get install -y python3 python3-pip cron
 
-WORKDIR /calendars
+WORKDIR /
+
 ADD ical_delta.py .
 ADD requirements.txt .
 
 RUN pip install -r requirements.txt
 
-RUN echo '* * * * * python3 /calendars/ical_delta.py' > /etc/crontab
+ADD crontabfile /app/crontab
+RUN chmod 0644 /app/crontab
+RUN crontab /app/crontab
 
-ENTRYPOINT [ "cron", "-f" ]
+#CMD [ "cron", "-f" ]
+
+ADD exec.sh .
+RUN chmod +x exec.sh
+
+ENTRYPOINT [ "/bin/bash", "exec.sh" ]
