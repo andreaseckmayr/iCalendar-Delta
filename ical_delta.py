@@ -5,15 +5,37 @@ A. Eckmayr
 '''
 
 # %%  load dependencies
+from typing import Set
 from icalendar import Calendar, Event
 from datetime import datetime
 from pytz import UTC
 import urllib3
 import os
 import datetime
+import csv
 
 # %%
-def get_uids(cal):
+class Cal:
+    def __init__ (self, url: str, name: str, hash: str):
+        self.url = url
+        self.name = name
+        self.hash = hash
+    
+    def __str__(self):
+        return f'{self.url}'
+
+# %%
+def get_cal(url: str) -> Calendar:
+    '''load calendar from url'''
+    http = urllib3.PoolManager()
+    r = http.request('GET', url)
+    cal = Calendar.from_ical(r.data)
+    r.close()
+    return cal
+
+# %%
+def get_uids(cal: Calendar) -> Set[str]:
+    '''get uids from calendar entries as set'''
     uids = []
     for comp in cal.walk():
         if comp.name == 'VEVENT':
@@ -21,51 +43,41 @@ def get_uids(cal):
             #print(comp.get('summary'))
     return set(uids)
 
+# %%
+def compare(a: Cal, b: Cal) -> Calendar:
+    '''take two calendars and return a new cal with missing entries'''
+    cal = Calendar()
+    cal.add('prodid', f"{a.name}//ndrs.dev")
+    cal.add('version', '1.0')
+    for comp in b.cal.walk():
+        if comp.name == 'VEVENT':
+            if comp.get('uid') not in a.uids:
+                cal.add_component(comp)
+    return cal
+
 # %%  set static urls
-CAL_A = 'http://stundenplan.fh-ooe.at/ics/bd6e177711f7462078.ics'
-CAL_B = 'http://stundenplan.fh-ooe.at/ics/8d8b8670dd17493b79.ics'
+calendars = dict()
+with open('/config/calendars.csv', 'r') as file:
+    csv_reader = csv.reader(file, delimiter=';')
+    for row in csv_reader:
+        calendars[row[0]] = Cal(row[1], row[2], row[3])
 
-# %%  load first calendar
-http = urllib3.PoolManager()
-r = http.request('GET', CAL_A)
-cal_a = Calendar.from_ical(r.data)
-r.close()
-uids_a = get_uids(cal_a)
-
-# %%  load second calendar
-r = http.request('GET', CAL_B)
-cal_b = Calendar.from_ical(r.data)
-r.close()
-uids_b = get_uids(cal_b)
+# %%  load calendars
+for _, item in calendars.items():
+    c = get_cal(item.url)
+    item.cal = c
+    item.uids = get_uids(c)
 
 # %%  compare calendars and add missing events
-delta_a = uids_a.difference(uids_b)
-delta_b = uids_b.difference(uids_a)
-
-cal_a_delta = Calendar()
-cal_a_delta.add('prodid', 'fhooe-dse-andreas//ndrs.dev')
-cal_a_delta.add('version', '1.0')
-
-cal_b_delta = Calendar()
-cal_b_delta.add('prodid', 'fhooe-dse-magdalena//ndrs.dev')
-cal_b_delta.add('version', '1.0')
-
-for comp in cal_b.walk():
-    if comp.name == 'VEVENT':
-        if comp.get('uid') not in uids_a:
-            cal_a_delta.add_component(comp)
-
-for comp in cal_a.walk():
-    if comp.name == 'VEVENT':
-        if comp.get('uid') not in uids_b:
-            cal_b_delta.add_component(comp)
+cal_a_delta = compare(calendars['1'], calendars['2'])
+cal_b_delta = compare(calendars['2'], calendars['1'])
 
 # %%  write calendars to file
-f = open(os.path.join('/calendars', 'e024f9589c1e9d64b34cb1257d9c9dfc.ics'), 'wb')  # $ echo -n andreas | md5sum -> andreas
+f = open(os.path.join('/calendars', f'{calendars["1"].hash}.ics'), 'wb')  # $ echo -n andreas | md5sum -> andreas
 f.write(cal_a_delta.to_ical())
 f.close()
 
-f = open(os.path.join('/calendars', '1d68c3cd963944443cfed7b42ffde9c4.ics'), 'wb')  # magdalena
+f = open(os.path.join('/calendars', f'{calendars["2"].hash}.ics'), 'wb')  # magdalena
 f.write(cal_b_delta.to_ical())
 f.close()
 
