@@ -8,6 +8,7 @@ services:
     image: andreaseckmayr/ical-delta-app:latest
     build:
       context: .
+      dockerfile: Dockerfile-app
       tags:
         - "andreaseckmayr/ical-delta-app:latest"
     volumes:
