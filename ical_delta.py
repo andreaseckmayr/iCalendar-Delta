@@ -6,11 +6,11 @@ A. Eckmayr
 
 # %%  load dependencies
 from typing import Set
-from icalendar import Calendar
-from datetime import datetime
-import csv
-import urllib3
 import os
+import csv
+from datetime import datetime
+from icalendar import Calendar
+import urllib3
 
 # %%
 class Cal:
