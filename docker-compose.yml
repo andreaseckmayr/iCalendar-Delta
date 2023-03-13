@@ -12,7 +12,7 @@ services:
       dockerfile: Dockerfile-web
     restart: always
     volumes:
-      - calendars:/app/static
+      - calendars:/app/static/downloads
     ports:
       - "8080:8080"
 
