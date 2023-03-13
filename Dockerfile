@@ -8,6 +8,6 @@ ADD requirements.txt .
 
 RUN pip install -r requirements.txt
 
-RUN echo '* * * * * python3 ical_delta.py' > /etc/crontab
+RUN echo '* * * * * python3 /calendar/ical_delta.py' > /etc/crontab
 
 ENTRYPOINT [ "cron", "-f" ]

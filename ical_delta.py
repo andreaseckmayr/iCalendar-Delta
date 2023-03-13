@@ -59,11 +59,11 @@ for comp in cal_a.walk():
             cal_b_delta.add_component(comp)
 
 # %%  write calendars to file
-f = open('andreas_delta.ics', 'wb')
+f = open('e024f9589c1e9d64b34cb1257d9c9dfc.ics', 'wb')  # $ echo -n andreas | md5sum -> andreas
 f.write(cal_a_delta.to_ical())
 f.close()
 
-f = open('magdalena_delta.ics', 'wb')
+f = open('1d68c3cd963944443cfed7b42ffde9c4.ics', 'wb')  # magdalena
 f.write(cal_b_delta.to_ical())
 f.close()
 

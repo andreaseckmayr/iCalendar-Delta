@@ -14,7 +14,7 @@ services:
     volumes:
       - calendars:/app/static
     ports:
-      - "8080:8080"
+      - "34116:8080"
 
 volumes:
   calendars:
