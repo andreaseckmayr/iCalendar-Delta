@@ -14,6 +14,7 @@ services:
     volumes:
       - calendars:/calendars
       - ./config:/config
+    restart: unless-stopped
   web:
     container_name: 'ical-delta-web'
     labels:
