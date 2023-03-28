@@ -4,7 +4,7 @@ Purpose of this app is to load two or more calendars and create a new calendar w
 
 ## Usage
 
-### Docker Compose
+### Deploy with Docker Compose
 
 | Parameter     | Function                                        |
 | ------------- | ----------------------------------------------- |
@@ -15,8 +15,30 @@ Purpose of this app is to load two or more calendars and create a new calendar w
 docker compose up -d
 ```
 
+### Update
+
+```/bin/bash
+docker compose pull && docker compose up -d --force-recreate
+```
+
+### Clean up
+
+```/bin/bash
+docker image prune
+```
+
 ## Build
 
 ```/bin/bash
 docker compose build
+```
+
+### Push to Quay.io
+
+```/bin/bash
+docker push quay.io/andreaseckmayr/ical-delta/app:latest
+```
+
+```/bin/bash
+docker push quay.io/andreaseckmayr/ical-delta/web:latest
 ```
