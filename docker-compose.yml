@@ -5,12 +5,12 @@ services:
     container_name: 'ical-delta-app'
     labels:
       - "com.centurylinklabs.watchtower.enable=false"
-    image: andreaseckmayr/ical-delta-app:latest
+    image: quay.io/andreaseckmayr/ical-delta/app:latest
     build:
       context: .
-      dockerfile: Dockerfile-app
+      dockerfile: app/Dockerfile
       tags:
-        - "andreaseckmayr/ical-delta-app:latest"
+        - "quay.io/andreaseckmayr/ical-delta/app:latest"
     volumes:
       - calendars:/calendars
       - ./config:/config
@@ -19,12 +19,12 @@ services:
     container_name: 'ical-delta-web'
     labels:
       - "com.centurylinklabs.watchtower.enable=false"
-    image: andreaseckmayr/ical-delta-web:latest
+    image: quay.io/andreaseckmayr/ical-delta/web:latest
     build:
       context: .
-      dockerfile: Dockerfile-web
+      dockerfile: web/Dockerfile
       tags:
-        - "andreaseckmayr/ical-delta-web:latest"
+        - "quay.io/andreaseckmayr/ical-delta/web:latest"
     restart: always
     volumes:
       - calendars:/app/static/downloads
