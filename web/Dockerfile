@@ -6,4 +6,4 @@ WORKDIR /app
 
 COPY . .
 
-COPY ./nginx.conf /etc/nginx/nginx.conf 
+COPY ./web/nginx.conf /etc/nginx/nginx.conf 

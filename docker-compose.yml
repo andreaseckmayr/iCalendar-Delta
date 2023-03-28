@@ -8,7 +8,7 @@ services:
     image: quay.io/andreaseckmayr/ical-delta/app:latest
     build:
       context: .
-      dockerfile: app/Dockerfile
+      dockerfile: ./app/Dockerfile
       tags:
         - "quay.io/andreaseckmayr/ical-delta/app:latest"
     volumes:
@@ -22,7 +22,7 @@ services:
     image: quay.io/andreaseckmayr/ical-delta/web:latest
     build:
       context: .
-      dockerfile: web/Dockerfile
+      dockerfile: ./web/Dockerfile
       tags:
         - "quay.io/andreaseckmayr/ical-delta/web:latest"
     restart: always
