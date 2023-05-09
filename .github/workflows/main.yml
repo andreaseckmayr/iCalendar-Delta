@@ -1,0 +1,17 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Checkout and build
+        run: docker compose build ./app/. --tag andreaseckmayr/ical-delta/app${{ github.sha }}
+      - uses: actions/checkout@v3
+      - name: Checkout and build
+        run: docker compose build ./web/. --tag andreaseckmayr/ical-delta/web${{ github.sha }}
