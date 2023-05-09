@@ -1,5 +1,4 @@
 [![Docker Repository on Quay](https://quay.io/repository/andreaseckmayr/ical-delta/app/status "Docker Repository on Quay")](https://quay.io/repository/andreaseckmayr/ical-delta/app)
-
 [![Docker Repository on Quay](https://quay.io/repository/andreaseckmayr/ical-delta/web/status "Docker Repository on Quay")](https://quay.io/repository/andreaseckmayr/ical-delta/web)
 
 # iCalendar-Delta
