@@ -15,12 +15,12 @@ services:
       - calendars:/calendars
       - ./config:/config
     restart: on-failure:5
-    healthcheck:
-      test: ["CMD", "cat", "ical_delta.log", "|", "grep", "'sync completed'"]
-      interval: 1m00s
-      timeout: 15s
-      retries: 3
-      start_period: 1m00s
+    #healthcheck:
+    #  test: ["CMD", "cat", "ical_delta.log", "|", "grep", "'sync completed'"]
+    #  interval: 60s
+    #  timeout: 15s
+    #  retries: 3
+    #  start_period: 10s
   web:
     container_name: 'ical-delta-web'
     labels:
@@ -40,10 +40,10 @@ services:
       - app
     healthcheck:
       test: curl --fail http://localhost:8080 || exit 1
-      interval: 1m00s
+      interval: 60s
       timeout: 15s
       retries: 3
-      start_period: 1m00s
+      start_period: 60s
 
 volumes:
   calendars:
