@@ -6,6 +6,8 @@ services:
     labels:
       - "com.centurylinklabs.watchtower.enable=false"
     image: quay.io/andreaseckmayr/ical-delta/app:latest
+    environment:
+    - PYTHONUNBUFFERED=1
     build:
       context: ./app
       dockerfile: ./Dockerfile
