@@ -16,7 +16,7 @@ import urllib3
 # %%
 class ICalWrapper:
     '''
-    class provides basic funtionality for loading and storing ical objects
+    class provides basic functionality for loading and storing iCal objects
     '''
     def __init__(self, url: str, name: str, uid: str):
         self.url = url
@@ -34,7 +34,7 @@ class ICalWrapper:
         return self.cal
 
     def get_uids(self) -> Set[str]:
-        '''get uids from calendar entries as set'''
+        '''get unique ids from calendar entries as set'''
         uids = []
         for comp in self.cal.walk():
             if comp.name == 'VEVENT':
