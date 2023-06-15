@@ -78,10 +78,12 @@ cal_a_delta = compare(calendars['1'], calendars['2'])
 cal_b_delta = compare(calendars['2'], calendars['1'])
 
 # %%  write calendars to file
-with open(os.path.join('/calendars', f'{calendars["1"].uid}.ics'), 'wb') as f:
+with open(os.path.join('/calendars',
+                       f'{calendars["1"].uid}.ics'), 'wb') as f:
     f.write(cal_a_delta.to_ical())
 
-with open(os.path.join('/calendars', f'{calendars["2"].uid}.ics'), 'wb') as f:
+with open(os.path.join('/calendars',
+                       f'{calendars["2"].uid}.ics'), 'wb') as f:
     f.write(cal_b_delta.to_ical())
 
 # %%
