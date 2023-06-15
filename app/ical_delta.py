@@ -14,7 +14,7 @@ import urllib3
 
 
 # %%
-class iCalWrapper:
+class ICalWrapper:
     '''
     class provides basic funtionality for loading and storing ical objects
     '''
@@ -28,9 +28,9 @@ class iCalWrapper:
     def load_from_url(self) -> Calendar:
         '''load calendar from url'''
         http = urllib3.PoolManager()
-        r = http.request('GET', self.url)
-        self.cal = Calendar.from_ical(r.data)
-        r.close()
+        req = http.request('GET', self.url)
+        self.cal = Calendar.from_ical(req.data)
+        req.close()
         return self.cal
 
     def get_uids(self) -> Set[str]:
@@ -47,7 +47,7 @@ class iCalWrapper:
 
 
 # %%
-def compare(a: iCalWrapper, b: iCalWrapper) -> Calendar:
+def compare(a: ICalWrapper, b: ICalWrapper) -> Calendar:
     '''
     take two calendars and return a new cal with missing entries
     '''
@@ -62,11 +62,11 @@ def compare(a: iCalWrapper, b: iCalWrapper) -> Calendar:
 
 
 # %%  set static urls
-calendars = dict()
+calendars = {}
 with open('/config/calendars.csv', 'r', encoding='UTF-8') as file:
     csv_reader = csv.reader(file, delimiter=';')
     for row in csv_reader:
-        calendars[row[0]] = iCalWrapper(row[1], row[2], row[3])
+        calendars[row[0]] = ICalWrapper(row[1], row[2], row[3])
 
 # %%  load calendars
 for _, item in calendars.items():
@@ -78,13 +78,11 @@ cal_a_delta = compare(calendars['1'], calendars['2'])
 cal_b_delta = compare(calendars['2'], calendars['1'])
 
 # %%  write calendars to file
-f = open(os.path.join('/calendars', f'{calendars["1"].uid}.ics'), 'wb')
-f.write(cal_a_delta.to_ical())
-f.close()
+with open(os.path.join('/calendars', f'{calendars["1"].uid}.ics'), 'wb') as f:
+    f.write(cal_a_delta.to_ical())
 
-f = open(os.path.join('/calendars', f'{calendars["2"].uid}.ics'), 'wb')
-f.write(cal_b_delta.to_ical())
-f.close()
+with open(os.path.join('/calendars', f'{calendars["2"].uid}.ics'), 'wb') as f:
+    f.write(cal_b_delta.to_ical())
 
 # %%
 print(f'{datetime.now()}: cal sync completed')
