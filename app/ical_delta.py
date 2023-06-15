@@ -12,10 +12,13 @@ from datetime import datetime
 from icalendar import Calendar
 import urllib3
 
+
 # %%
 class iCalWrapper:
-    '''class provides basic funtionality for loading and storing ical objects'''
-    def __init__ (self, url: str, name: str, uid: str):
+    '''
+    class provides basic funtionality for loading and storing ical objects
+    '''
+    def __init__(self, url: str, name: str, uid: str):
         self.url = url
         self.name = name
         self.uid = uid
@@ -36,16 +39,18 @@ class iCalWrapper:
         for comp in self.cal.walk():
             if comp.name == 'VEVENT':
                 uids.append(comp.get('uid'))
-                #print(comp.get('summary'))
         self.uids = set(uids)
         return self.uids
 
     def __str__(self):
         return f'{self.url}'
 
+
 # %%
 def compare(a: iCalWrapper, b: iCalWrapper) -> Calendar:
-    '''take two calendars and return a new cal with missing entries'''
+    '''
+    take two calendars and return a new cal with missing entries
+    '''
     cal = Calendar()
     cal.add('prodid', f"{a.name}//ndrs.dev")
     cal.add('version', '1.0')
@@ -54,6 +59,7 @@ def compare(a: iCalWrapper, b: iCalWrapper) -> Calendar:
             if comp.get('uid') not in a.uids:
                 cal.add_component(comp)
     return cal
+
 
 # %%  set static urls
 calendars = dict()
@@ -72,7 +78,7 @@ cal_a_delta = compare(calendars['1'], calendars['2'])
 cal_b_delta = compare(calendars['2'], calendars['1'])
 
 # %%  write calendars to file
-f = open(os.path.join('/calendars', f'{calendars["1"].uid}.ics'), 'wb')  # $ echo -n andreas | md5sum
+f = open(os.path.join('/calendars', f'{calendars["1"].uid}.ics'), 'wb')
 f.write(cal_a_delta.to_ical())
 f.close()
 
