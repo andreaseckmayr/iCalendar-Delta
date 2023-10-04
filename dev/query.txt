@@ -1,0 +1,28 @@
+Query Hinfahrt:
+
+https://fahrplan.oebb.at/webapp/
+?context=TP
+&SID=A%3D1%40O%3DLinz%2FDonau%20Gr%C3%BCndberg%40X%3D14289936%40Y%3D48332337%40U%3D81%40L%3D491100%40B%3D1%40p%3D1696246576%40
+&ZID=A%3D1%40O%3DHagenberg%20im%20M%C3%BChlkreis%20Ortsmitte%40X%3D14517480%40Y%3D48367027%40U%3D81%40L%3D496212%40B%3D1%40p%3D1696246576%40
+&date=09.10.2023
+&time=11:20:00
+&timeSel=0
+&returnTimeSel=1
+&journeyProducts=576
+&start=1
+&#!P|TP!H|589217
+
+
+Query Rückfahrt:
+
+https://fahrplan.oebb.at/webapp/
+?context=TP
+&SID=A%3D1%40O%3DHagenberg%20im%20M%C3%BChlkreis%20Ortsmitte%40X%3D14517480%40Y%3D48367027%40U%3D81%40L%3D496212%40B%3D1%40p%3D1696246576%40
+&ZID=A%3D1%40O%3DLinz%2FDonau%20Gr%C3%BCndberg%40X%3D14289936%40Y%3D48332337%40U%3D81%40L%3D491100%40B%3D1%40p%3D1696246576%40
+&date=09.10.2023
+&time=17:05:00
+&timeSel=1
+&returnTimeSel=1
+&journeyProducts=576
+&start=1
+&#!P|TP!H|198320
