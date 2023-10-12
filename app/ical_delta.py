@@ -61,6 +61,13 @@ def compare(a: ICalWrapper, b: ICalWrapper) -> Calendar:
     return cal
 
 
+# %%
+def write_cal_to_file(cal: Calendar, name: str) -> None:
+    '''write calendar to file'''
+    with open(os.path.join('/calendars', f'{name}.ics'), 'wb') as f:
+        f.write(cal.to_ical())
+
+
 # %%  set static urls
 calendars = {}
 with open('/config/calendars.csv', 'r', encoding='UTF-8') as file:
@@ -76,15 +83,12 @@ for _, item in calendars.items():
 # %%  compare calendars and add missing events
 cal_a_delta = compare(calendars['1'], calendars['2'])
 cal_b_delta = compare(calendars['2'], calendars['1'])
+cal_c_delta = compare(calendars['2'], calendars['3'])
 
 # %%  write calendars to file
-with open(os.path.join('/calendars',
-                       f'{calendars["1"].uid}.ics'), 'wb') as f:
-    f.write(cal_a_delta.to_ical())
-
-with open(os.path.join('/calendars',
-                       f'{calendars["2"].uid}.ics'), 'wb') as f:
-    f.write(cal_b_delta.to_ical())
+write_cal_to_file(cal_a_delta.to_ical(), calendars["1"].uid)
+write_cal_to_file(cal_b_delta.to_ical(), calendars["2"].uid)
+write_cal_to_file(cal_c_delta.to_ical(), calendars["3"].uid)
 
 # %%
 print(f'{datetime.now()}: cal sync completed')
