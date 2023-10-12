@@ -86,9 +86,17 @@ cal_b_delta = compare(calendars['2'], calendars['1'])
 cal_c_delta = compare(calendars['2'], calendars['3'])
 
 # %%  write calendars to file
-write_cal_to_file(cal_a_delta.to_ical(), calendars["1"].uid)
-write_cal_to_file(cal_b_delta.to_ical(), calendars["2"].uid)
-write_cal_to_file(cal_c_delta.to_ical(), calendars["3"].uid)
+with open(os.path.join('/calendars',
+                       f'{calendars["1"].uid}.ics'), 'wb') as f:
+    f.write(cal_a_delta.to_ical())
+
+with open(os.path.join('/calendars',
+                       f'{calendars["2"].uid}.ics'), 'wb') as f:
+    f.write(cal_b_delta.to_ical())
+
+with open(os.path.join('/calendars',
+                       f'{calendars["3"].uid}.ics'), 'wb') as f:
+    f.write(cal_c_delta.to_ical())
 
 # %%
 print(f'{datetime.now()}: cal sync completed')
