@@ -3,6 +3,9 @@ FROM python:alpine
 
 RUN apk update && apk upgrade
 
+RUN python3 -m ensurepip
+RUN pip3 install --no-cache --upgrade pip setuptools
+
 #RUN apt-get update && apt-get upgrade -y && apt-get install -y \
 #    python3 \
 #    python3-pip \
