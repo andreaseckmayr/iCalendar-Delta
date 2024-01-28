@@ -1,11 +1,14 @@
-FROM ubuntu:22.04
+FROM python:alpine
+#FROM ubuntu:22.04
 
-RUN apt-get update && apt-get upgrade -y && apt-get install -y \
-    python3 \
-    python3-pip \
-    cron \
-    ncat \
-    && rm -rf /var/lib/apt/lists/*
+RUN apk update && apk upgrade
+
+#RUN apt-get update && apt-get upgrade -y && apt-get install -y \
+#    python3 \
+#    python3-pip \
+#    cron \
+#    ncat \
+#    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /
 
@@ -14,9 +17,9 @@ ADD ./requirements.txt .
 
 RUN pip install -r requirements.txt
 
-ADD ./crontabfile /app/crontab
-RUN chmod 0644 /app/crontab
-RUN crontab /app/crontab
+#ADD ./crontabfile /app/crontab
+#RUN chmod 0644 /app/crontab
+#RUN crontab /app/crontab
 
 #CMD [ "cron", "-f" ]
 
