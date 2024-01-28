@@ -26,4 +26,4 @@ RUN pip install -r requirements.txt
 ADD ./exec.sh .
 RUN chmod +x exec.sh
 
-ENTRYPOINT [ "/bin/bash", "exec.sh" ]
+ENTRYPOINT [ "/bin/sh", "exec.sh" ]
